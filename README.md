@@ -6,9 +6,9 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
-### 
+### Comprendre la guerre qui vient ? Henri Guaino
 > 27 mars 2024
-> [youtube](
+> [youtube](https://www.youtube.com/watch?v=AZf1BACeoi8)
 
 - 
 
