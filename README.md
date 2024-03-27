@@ -6,6 +6,12 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### 
+> 27 mars 2024
+> [youtube](
+
+- 
+
 ### Les Hackers face aux cyberguerres ? Bluetouff, Fabrice Epelboin & Marc-Antoine Ledieu
 > 21 mars 2024
 > [youtube](https://www.youtube.com/watch?v=ri2GT4IDqb4)
