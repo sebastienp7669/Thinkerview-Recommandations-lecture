@@ -10,7 +10,10 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 > 27 mars 2024
 > [youtube](https://www.youtube.com/watch?v=AZf1BACeoi8)
 
-- 
+- L'homme révolté - Albert Camus
+- Le premier homme - Albert Camus
+- Les Grands cimetières sous la lune - Georges Bernanos
+- Mémoires d'Outre-Tombe - François-René de Chateaubriand
 
 ### Les Hackers face aux cyberguerres ? Bluetouff, Fabrice Epelboin & Marc-Antoine Ledieu
 > 21 mars 2024
