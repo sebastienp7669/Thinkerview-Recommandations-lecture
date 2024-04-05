@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Intelligence artificielle, bullsh*t, pipotron ? Benjamin Bayart
+> 4 avril 2024
+> [youtube](https://www.youtube.com/watch?v=tTb5wQw_8JE)
+
+- Le savant et le politique - Max Weber
+- Pyramides - Romain Banassaya
+- La Captive du temps perdu - Vernor Vinge
+
 ### Comprendre la guerre qui vient ? Henri Guaino
 > 27 mars 2024
 > [youtube](https://www.youtube.com/watch?v=AZf1BACeoi8)
