@@ -10,6 +10,10 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 > 4 avril 2024
 > [youtube](https://www.youtube.com/watch?v=tTb5wQw_8JE)
 
+Pendant la discussion:
+- Le cycle de la culture - Iain M. Banks
+
+Recommendations de fin d'interview:
 - Le savant et le politique - Max Weber
 - Pyramides - Romain Banassaya
 - La Captive du temps perdu - Vernor Vinge
