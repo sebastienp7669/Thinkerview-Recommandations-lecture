@@ -16,6 +16,7 @@ Pendant la discussion:
 Recommendations de fin d'interview:
 - Le savant et le politique - Max Weber
 - Pyramides - Romain Banassaya
+- Arca - Romain Benassaya
 - La Captive du temps perdu - Vernor Vinge
 
 ### Comprendre la guerre qui vient ? Henri Guaino
