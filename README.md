@@ -15,6 +15,9 @@ Livres de l'invité:
 - Grands diplomates: Les maîtres des relations internationales de Mazarin à nos jours - Hhubert Védrine & Collectif
 - Dictionnaire amoureux de la géopolitique - Hubert Védrine
 
+Livre évoqué pendant l'interview:
+- Au coeur du pouvoir : Mémoires politiques - Evgueni Primakov 
+
 Recommandations:
 - Le Procès Pétain: Vichy face à ses juge - Julian Jackson
 - Le Désastre de Pavie - Jean Giono
