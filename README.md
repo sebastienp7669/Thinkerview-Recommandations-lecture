@@ -10,12 +10,11 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 > 30 avril 2024
 >  (youtube](https://www.youtube.com/watch?v=MuPEZ9fyijc)
 
-Livres des invités:
+#### Livres des invités:
 - Charles Gave - La Vérité vous rendra libre
 - Pierre Larrouturou - 32h, la semaine de 4 jours, c'est possible
 
-Recommendations:
-
+#### Recommendations:
 Charles Gave:
 - L'écologiste sceptique - Bjorn Lomborg
 - The Population Explosion - Paul R. Ehrlich, Anne H. Ehrlich
@@ -28,15 +27,15 @@ Pierre Larrouturou:
 > 10 avril 2024
 > [youtube](https://www.youtube.com/watch?v=_xAZi4tJYSk)
 
-Livres de l'invité:
+#### Livres de l'invité:
 - Camus, notre rempart - Hubert Védrine
-- Grands diplomates: Les maîtres des relations internationales de Mazarin à nos jours - Hhubert Védrine & Collectif
+- Grands diplomates: Les maîtres des relations internationales de Mazarin à nos jours - Hubert Védrine & Collectif
 - Dictionnaire amoureux de la géopolitique - Hubert Védrine
 
-Livre évoqué pendant l'interview:
+#### Livre évoqué pendant l'interview:
 - Au coeur du pouvoir : Mémoires politiques - Evgueni Primakov 
 
-Recommandations:
+#### Recommandations:
 - Le Procès Pétain: Vichy face à ses juge - Julian Jackson
 - Le Désastre de Pavie - Jean Giono
 
@@ -44,10 +43,10 @@ Recommandations:
 > 4 avril 2024
 > [youtube](https://www.youtube.com/watch?v=tTb5wQw_8JE)
 
-Pendant la discussion:
+#### Pendant la discussion:
 - Le cycle de la culture - Iain M. Banks
 
-Recommendations de fin d'interview:
+#### Recommendations de fin d'interview:
 - Le savant et le politique - Max Weber
 - Pyramides - Romain Banassaya
 - Arca - Romain Benassaya
