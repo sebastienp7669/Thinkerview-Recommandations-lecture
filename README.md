@@ -6,6 +6,23 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Économistes face à la réalité sans filtre: Charles Gave, Pierre Larrouturou
+> 30 avril 2024
+>  (youtube](https://www.youtube.com/watch?v=MuPEZ9fyijc)
+
+Livres des invités:
+- Charles Gave - La Vérité vous rendra libre
+- Pierre Larrouturou - 32h, la semaine de 4 jours, c'est possible
+
+Recommendations:
+Charles Gave:
+- L'écologiste sceptique - Bjorn Lomborg
+- The Population Explosion - Paul R. Ehrlich, Anne H. Ehrlich
+
+Pierre Larrouturou:
+- Perdre la Terre: Une histoire de notre temps - Nathanael Rich
+- Jean Jouzel, Entretiens - Paul Goupil
+
 ### Pensée stratégique française, ils naviguent à vue ? Hubert Védrine
 > 10 avril 2024
 > [youtube](https://www.youtube.com/watch?v=_xAZi4tJYSk)
