@@ -16,6 +16,7 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 
 #### Recommendations:
 Charles Gave:
+- Unsettled: What Climate Science Tells Us, What It Doesn't, and Why It Matters - Steven E. Koonin
 - L'écologiste sceptique - Bjorn Lomborg
 - The Population Explosion - Paul R. Ehrlich, Anne H. Ehrlich
 
