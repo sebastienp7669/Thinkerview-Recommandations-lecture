@@ -15,6 +15,7 @@ Livres des invités:
 - Pierre Larrouturou - 32h, la semaine de 4 jours, c'est possible
 
 Recommendations:
+
 Charles Gave:
 - L'écologiste sceptique - Bjorn Lomborg
 - The Population Explosion - Paul R. Ehrlich, Anne H. Ehrlich
