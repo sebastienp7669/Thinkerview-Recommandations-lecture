@@ -6,9 +6,15 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Israël/Palestine : fuir sous les bombes ? Alain Gresh & Rony Brauman
+> 14 mai 2024
+> [youtube](https://www.youtube.com/watch?v=24feUlWPyIc)
+
+
+
 ### Économistes face à la réalité sans filtre: Charles Gave, Pierre Larrouturou
 > 30 avril 2024
->  (youtube](https://www.youtube.com/watch?v=MuPEZ9fyijc)
+>  [youtube](https://www.youtube.com/watch?v=MuPEZ9fyijc)
 
 #### Livres des invités:
 - Charles Gave - La Vérité vous rendra libre
