@@ -10,7 +10,22 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 > 14 mai 2024
 > [youtube](https://www.youtube.com/watch?v=24feUlWPyIc)
 
+#### Livres des invités:
+- Alain Gresh - Palestine, un peuple qui ne veut pas mourir
 
+#### Recommendations:
+Alain Gresh:       
+- Maxime Rodinson - Peuple juif ou problème juif ?
+- Edward W. Said - L'Orientalisme: L'Orient créé par l'Occident
+- Karl Marx & Friedrich Engels - Manifeste du parti communiste
+
+Rony Brauman:
+- Sylvain Cypel - L'Etat d'Israël contre les Juifs
+- Eyal Weizman - Une occupation civile, la politique de l'architecture israélienne
+- Leonardo Padura - L'homme qui aimait les chiens
+
+Cité par Sky:
+- Stephen Graham - Villes sous contrôle : La militarisation de l'espace urbain
 
 ### Économistes face à la réalité sans filtre: Charles Gave, Pierre Larrouturou
 > 30 avril 2024
