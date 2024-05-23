@@ -8,7 +8,7 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 
 ### Les gens ordinaires ne portent pas de mitraillettes. Artem Chapeye
 > 22 mai 2024
-> **INTERVIEW SUPPRIMEE**
+> **INTERVIEW SUPPRIMEE** [Explication courte sur le compte X/Twitter de ThinkerView](https://x.com/Thinker_View/status/1793445840540827756)
 
 #### Livre de l'invité
 - Les gens ordinaires ne portent pas de mitraillettes - Artem Chapeye
