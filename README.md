@@ -6,6 +6,13 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Les gens ordinaires ne portent pas de mitraillettes. Artem Chapeye
+> 22 mai 2024
+> **INTERVIEW SUPPRIMEE**
+
+#### Livre de l'invité
+- Les gens ordinaires ne portent pas de mitraillettes - Artem Chapeye
+
 ### Israël/Palestine : fuir sous les bombes ? Alain Gresh & Rony Brauman
 > 14 mai 2024
 > [youtube](https://www.youtube.com/watch?v=24feUlWPyIc)
