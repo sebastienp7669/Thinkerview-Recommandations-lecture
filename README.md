@@ -6,6 +6,12 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### L'humour comme miroir de la société ? Haroun
+> 29 mai 2024
+> [youtube](https://www.youtube.com/watch?v=JZJqRqvkue8)
+
+- 
+
 ### Les gens ordinaires ne portent pas de mitraillettes. Artem Chapeye
 > 22 mai 2024
 > **INTERVIEW SUPPRIMEE** [Explication courte sur le compte X/Twitter de ThinkerView](https://x.com/Thinker_View/status/1793445840540827756)
