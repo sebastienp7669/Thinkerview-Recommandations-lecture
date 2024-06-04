@@ -10,6 +10,10 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 > 29 mai 2024
 > [youtube](https://www.youtube.com/watch?v=JZJqRqvkue8)
 
+#### Pendant l'interview
+- La stratégie de l'émotion - Anne-Cécile Robert
+
+#### Recommandations de fin d'interview
 - Les identités meurtrières - Amin Maalouf
 - La vie devant soi - Romain gary (sous le nom d'Emile Ajar)
 - Comment faire tomber un dictateur quand on est seul, tout petit, et sans armes - Srdja Popovic
@@ -81,7 +85,7 @@ Pierre Larrouturou:
 > 4 avril 2024
 > [youtube](https://www.youtube.com/watch?v=tTb5wQw_8JE)
 
-#### Pendant la discussion:
+#### Pendant l'interview:
 - Le cycle de la culture - Iain M. Banks
 
 #### Recommendations de fin d'interview:
@@ -1253,7 +1257,7 @@ Noam Anouar :
 - Le Mariage de Figaro - Pierre-Augustin Caron de Beaumarchais
 - Du contrat social - Jean-Jacques Rousseau
 
-Livres cités pendant l'interview :
+#### Livres cités pendant l'interview :
 
 - La France doit savoir - Noam Anouar (1h38)
 - L'Ennemi de l'Intérieur - Alexandre Langlois (1h38)
@@ -1645,7 +1649,7 @@ Pas de recommandation lecture.
 - Mémoires de guerre - Charles de Gaulle
 - Tribulations d'un précaire - Iain Levison
 
-Livres cités pendant l'interview :
+#### Livres cités pendant l'interview :
 
 - Et maintenant, on mange quoi ? : Un ancien industriel de l'agroalimentaire vous aide à faire les bons choix - Christophe Brusset
 - L'Empire de l'or rouge - Jean-Baptiste Malet
