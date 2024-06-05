@@ -27,6 +27,7 @@ Willy Schraen:
 
 #### Pendant l'interview
 - La stratégie de l'émotion - Anne-Cécile Robert
+- Le piège identitaire - Yascha Mounk
 
 #### Recommandations de fin d'interview
 - Les identités meurtrières - Amin Maalouf
