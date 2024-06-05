@@ -31,7 +31,7 @@ Willy Schraen:
 
 #### Recommandations de fin d'interview
 - Les identités meurtrières - Amin Maalouf
-- La vie devant soi - Romain gary (sous le nom d'Emile Ajar)
+- La vie devant soi - Romain Gary (sous le nom d'Emile Ajar)
 - Comment faire tomber un dictateur quand on est seul, tout petit, et sans armes - Srdja Popovic
 - La lamentation du prépuce - Shalom Auslander
 
