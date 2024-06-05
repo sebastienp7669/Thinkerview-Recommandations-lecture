@@ -6,6 +6,21 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Willy et Jean tirent à vue : l'avenir de la France et de l'Europe - Willy Schraen & Jean Lassalle
+> 4 juin 2024
+> [youtube](https://www.youtube.com/watch?v=MI95Qv0FDb8)
+
+#### Livres de l'invité
+- La parole donnée - Jean Lassalle
+- Aurore ou crépuscule - Jean Lassalle
+- La France authentique - Jean Lassalle
+
+#### Recommandations
+Willy Schraen:
+- Cyrano de Bergerac - Edmond Rostand
+- Le seigneur des anneaux - J.R.R Tolkien
+- Madame Bovary - Gustave Flaubert
+
 ### L'humour comme miroir de la société ? Haroun
 > 29 mai 2024
 > [youtube](https://www.youtube.com/watch?v=JZJqRqvkue8)
