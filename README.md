@@ -6,6 +6,12 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### IA et transition écologique : les liaisons dangereuses ? Guillaume Pitron
+> 12 juin 2024
+> [youtube](https://www.youtube.com/watch?v=qiJXoAzAKpo)
+
+- 
+
 ### Willy et Jean tirent à vue : l'avenir de la France et de l'Europe - Willy Schraen & Jean Lassalle
 > 4 juin 2024
 > [youtube](https://www.youtube.com/watch?v=MI95Qv0FDb8)
