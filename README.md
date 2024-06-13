@@ -10,7 +10,9 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 > 12 juin 2024
 > [youtube](https://www.youtube.com/watch?v=qiJXoAzAKpo)
 
-- 
+- Immigration : le grand déni - François Heran
+- La Formule de Dieu - José Rodrigues Dos Santos
+- L'enfer numérique: Voyage au bout d'un Like - Guillaume Pitron
 
 ### Willy et Jean tirent à vue : l'avenir de la France et de l'Europe - Willy Schraen & Jean Lassalle
 > 4 juin 2024
