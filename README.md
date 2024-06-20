@@ -6,6 +6,13 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Géopolitique: fous de Dieu, fous de guerre ? Farhad Khosrokhavar & Pierre Conesa
+> 19 juin 2024
+> [youtube](https://www.youtube.com/watch?v=40SoVnHf5RQ)
+
+- Les formes élémentaires de la vie religieuse - Émile Durkheim
+- L'éthique protestante et l'esprit du capitalisme - Max Weber
+
 ### IA et transition écologique : les liaisons dangereuses ? Guillaume Pitron
 > 12 juin 2024
 > [youtube](https://www.youtube.com/watch?v=qiJXoAzAKpo)
