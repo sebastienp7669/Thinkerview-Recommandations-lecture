@@ -10,6 +10,11 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 > 19 juin 2024
 > [youtube](https://www.youtube.com/watch?v=40SoVnHf5RQ)
 
+#### Cités pendant l'interview
+- Iran: La jeunesse démocratique contre l'État prédateur - Farhad Khosrokhavar
+- Un silence religieux - Jean Birnbaum
+
+#### Recommandations
 - Les formes élémentaires de la vie religieuse - Émile Durkheim
 - L'éthique protestante et l'esprit du capitalisme - Max Weber
 
