@@ -15,6 +15,10 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 - Un silence religieux - Jean Birnbaum
 
 #### Recommandations
+Pierre Conesa
+- La Tyrannie de la pénitence - Pascal Bruckner
+
+Farhad Khosrokhavar
 - Les formes élémentaires de la vie religieuse - Émile Durkheim
 - L'éthique protestante et l'esprit du capitalisme - Max Weber
 
