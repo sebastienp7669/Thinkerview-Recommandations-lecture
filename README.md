@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Secrets d’États, Espionnage, Mafia : la mort ou le silence ? Laurent Richard
+> 6 septembre 2024
+> [youtube](https://www.youtube.com/watch?v=FR84xMp0cWY)
+
+- Black list : Quinze grands journalistes américains brisent la loi du silence - Kristina Borjesson
+- Hacks, Leaks, and Revelations : The Art of Analyzing Hacked and Leaked Data - Micah Lee
+- Informer n'est pas un délit : Ensemble contre les nouvelles censures - Collectif, sous la direction de Fabrice arfi et Paul Moreira
+
 ### Géopolitique: fous de Dieu, fous de guerre ? Farhad Khosrokhavar & Pierre Conesa
 > 19 juin 2024
 > [youtube](https://www.youtube.com/watch?v=40SoVnHf5RQ)
