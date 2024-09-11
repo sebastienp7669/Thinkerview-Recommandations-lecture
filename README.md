@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Comment préparer une guillotine ? Juan Branco
+> 10 septembre 2024
+> [youtube](https://www.youtube.com/watch?v=rtBiS5R08Qk)
+
+- Crimes et châtiment - Fedor Dostoïevski
+- Les misérables - Victor Hugo
+- Voyage au bout de la nuit - Louis-Ferdinand Céline
+- Les enfants Tanner - Robert Walser
+
 ### Secrets d’États, Espionnage, Mafia : la mort ou le silence ? Laurent Richard
 > 6 septembre 2024
 > [youtube](https://www.youtube.com/watch?v=FR84xMp0cWY)
