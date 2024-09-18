@@ -6,6 +6,23 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Bitcoin Boom ou Crypto Crash ? L’Avenir de l’Argent ? Gouspillou, Benoit, Stachtchenko
+> 17 septembre 2024
+> [youtube]5https://www.youtube.com/watch?v=0GdITtX_grA°
+
+Alexandre Stachtchenko
+- La route de la servitude - Friedrich A. Hayek
+- Broken Money : Why Our Financial System is Failing Us and How We Can Make it Better - Lyn Alden
+
+Tom Benoît
+- La monnaie : Entre néolibéralisme et état, un choix politique - Bruno Colmant
+- Aphorismes sur la sagesse dans la vie - Arthur Schopenhauer
+- En finir avec le règne de l'illusion financière : Pour une croisssance réelle - Jacques de Larosière
+
+Sébastien Gouspillou
+- Bitcoin - La monnaie acéphale - Jacques Favier, Adli Takkal Bataille
+- L’énergie, face cachée de la monnaie - Pierre Noizat
+
 ### Comment préparer une guillotine ? Juan Branco
 > 10 septembre 2024
 > [youtube](https://www.youtube.com/watch?v=rtBiS5R08Qk)
