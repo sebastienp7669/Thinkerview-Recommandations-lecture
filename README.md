@@ -6,7 +6,15 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
-### Bitcoin Boom ou Crypto Crash ? L’Avenir de l’Argent ? Gouspillou, Benoit, Stachtchenko
+### Gaza Sous le Blocus : Est-ce une Question de Sécurité ou de Punition ? Aymeric Caron
+> 27 septembre 2024
+> [youtube](https://www.youtube.com/watch?v=cp3MelwgPAw)
+
+- Le Château - Franz Kafka
+- Dracula - Bram Stoker
+- L'obsolescence de l'homme - Günther Anders
+
+### Bitcoin Boom ou Crypto Crash ? L’Avenir de l’Argent ? Sébastien Gouspillou, Tom Benoit, Alexandre Stachtchenko
 > 17 septembre 2024
 > [youtube]5https://www.youtube.com/watch?v=0GdITtX_grA°
 
