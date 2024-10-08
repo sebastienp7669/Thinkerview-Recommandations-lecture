@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Activistes criminalisés : l’ultime signal d’un monde en déclin ? Lamya Essemlali
+> 07 octobre 2024
+> [youtube](https://www.youtube.com/watch?v=lAeGrPFSL0Y)
+
+- Les Nouvelles Promesses des psychotropes - Michael Pollan
+- Sapiens : Une brève histoire de l'humanité - Yuval Noah Harari
+- La soif de l'essentiel - Reza Moghaddassi
+
 ### Gaza Sous le Blocus : Est-ce une Question de Sécurité ou de Punition ? Aymeric Caron
 > 27 septembre 2024
 > [youtube](https://www.youtube.com/watch?v=cp3MelwgPAw)
