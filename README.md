@@ -13,6 +13,7 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 - Le Château - Franz Kafka
 - Dracula - Bram Stoker
 - L'obsolescence de l'homme - Günther Anders
+- Tout autre livre de Günther Anders
 
 ### Bitcoin Boom ou Crypto Crash ? L’Avenir de l’Argent ? Sébastien Gouspillou, Tom Benoit, Alexandre Stachtchenko
 > 17 septembre 2024
