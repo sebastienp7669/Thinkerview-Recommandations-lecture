@@ -6,7 +6,7 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
-### Survie dans le Chaos : La robustesse à l'épreuve ? - Olivier Hamant
+### Survie dans le Chaos : La robustesse à l'épreuve ? Olivier Hamant
 > 18 octobre 2024
 > [youtube](https://www.youtube.com/watch?v=JPW_m8JBl2Q)
 
