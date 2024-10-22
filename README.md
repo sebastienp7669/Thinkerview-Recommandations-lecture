@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Survie dans le Chaos : La robustesse à l'épreuve ? - Olivier Hamant
+> 18 octobre 2024
+> [youtube](https://www.youtube.com/watch?v=JPW_m8JBl2Q)
+
+- Les limites à la croissance (dans un monde fini) : Le rapport Meadows, 30 ans après - Donella Meadows, Jorgen Randers et Dennis Meadows
+- Homo confort : Le prix à payer d’une vie sans efforts ni contraintes - Stefano Boni
+- Rendre le monde indisponible - Hartmut Rosa
+
 ### Activistes criminalisés : l’ultime signal d’un monde en déclin ? Lamya Essemlali
 > 07 octobre 2024
 > [youtube](https://www.youtube.com/watch?v=lAeGrPFSL0Y)
