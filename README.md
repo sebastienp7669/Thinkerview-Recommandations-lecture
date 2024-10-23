@@ -10,6 +10,10 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 > 18 octobre 2024
 > [youtube](https://www.youtube.com/watch?v=JPW_m8JBl2Q)
 
+#### Pendant l'interview
+- La part maudite - Georges Bataille
+
+#### Recommandations de fin d'interview
 - Les limites à la croissance (dans un monde fini) : Le rapport Meadows, 30 ans après - Donella Meadows, Jorgen Randers et Dennis Meadows
 - Homo confort : Le prix à payer d’une vie sans efforts ni contraintes - Stefano Boni
 - Rendre le monde indisponible - Hartmut Rosa
@@ -73,7 +77,7 @@ Sébastien Gouspillou
 - Iran: La jeunesse démocratique contre l'État prédateur - Farhad Khosrokhavar
 - Un silence religieux - Jean Birnbaum
 
-#### Recommandations
+#### Recommandations de fin d'interview
 Pierre Conesa
 - La Tyrannie de la pénitence - Pascal Bruckner
 
@@ -135,7 +139,7 @@ Willy Schraen:
 #### Livres des invités:
 - Alain Gresh - Palestine, un peuple qui ne veut pas mourir
 
-#### Recommendations:
+#### Recommandations:
 Alain Gresh:       
 - Maxime Rodinson - Peuple juif ou problème juif ?
 - Edward W. Said - L'Orientalisme: L'Orient créé par l'Occident
@@ -157,7 +161,7 @@ Cité par Sky:
 - Charles Gave - La Vérité vous rendra libre
 - Pierre Larrouturou - 32h, la semaine de 4 jours, c'est possible
 
-#### Recommendations:
+#### Recommandations:
 Charles Gave:
 - Unsettled: What Climate Science Tells Us, What It Doesn't, and Why It Matters - Steven E. Koonin
 - L'écologiste sceptique - Bjorn Lomborg
@@ -190,7 +194,7 @@ Pierre Larrouturou:
 #### Pendant l'interview:
 - Le cycle de la culture - Iain M. Banks
 
-#### Recommendations de fin d'interview:
+#### Recommandations de fin d'interview:
 - Le savant et le politique - Max Weber
 - Pyramides - Romain Banassaya
 - Arca - Romain Benassaya
