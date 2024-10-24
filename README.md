@@ -1,10 +1,20 @@
 # Thinkerview
 
-[Site officiel](https://www.thinkerview.com/) - chaines [Youtube](https://www.youtube.com/thinkerview), [Peertube](https://thinkerview.video/) et [CaptainFact](https://captainfact.io/s/Thinkerview)
+[Site officiel](https://www.thinkerview.com/) - Chaînes [Youtube](https://www.youtube.com/@thinkerview), [Peertube](https://thinkerview.video/) et [CaptainFact](https://captainfact.io/s/Thinkerview)
 
 ## Recommandations de lecture des invités
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
+
+### Engrenage du chaos mondial à l'apocalypse ? Pierre Lellouche
+> 22 octobre 2024
+> [youtube](https://www.youtube.com/watch?v=TpoO-RnOEmI)
+
+- L'oeuvre de Vassili Grossman
+- Cavalerie rouge - Isaac Babel
+- Les âmes mortes - Nicolas Gogol
+- A l'Est d'Eden - John Steinbeck
+- Quatrevingt-Treize - Victor Hugo
 
 ### Survie dans le Chaos : La robustesse à l'épreuve ? Olivier Hamant
 > 18 octobre 2024
