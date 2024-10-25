@@ -10,7 +10,9 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 > 24 octobre 2024
 > [youtube](https://www.youtube.com/watch?v=NmyEqUOgD_U)
 
-- 
+- L'homme en péril - Konrad Lorenz
+- Fables - Jean de La Fontaine
+- Mauvaises pensées - Paul Valéry
 
 ### Engrenage du chaos mondial à l'apocalypse ? Pierre Lellouche
 > 22 octobre 2024
