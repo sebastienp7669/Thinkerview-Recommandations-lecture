@@ -6,6 +6,34 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### La société rêvée d'Elon Musk : quel avenir ? - Jean-Marc Jancovici & Philippe Bihouix
+> 13 novembre 2024
+> [youtube](https://www.youtube.com/watch?v=6HB2WD96ByQ)
+
+#### Livres des invités
+- Ressources : Un défi pour l'humanité - Philippe Bihouix, Vincent Perriot
+- Le Monde sans fin, miracle énergétique et dérive climatique - Christophe Blain et Jean-Marc Jancovici
+
+#### Recommandations
+Philippe Bihouix:
+- Money : Whence It Came, Where It Went - John Kenneth Galbraith
+- La rançon du machinisme - Gina Lombroso
+
+Jean-Marc Jancovici:
+- Être un chêne : sous l'écorce de Quercus - Laurent Tillon
+- Les Fantômes de la nuit : Des chauves-souris et des hommes - Laurent Tillon
+- Féminicène - Véra Nikolski
+- De l'inégalité parmi les sociétés : Essai sur l'homme et l'environnement dans l'histoire - Jared Diamond
+
+### Anticipations géopolitiques; les médias font-ils encore leur boulot ? Pascal Boniface
+> 12 novembre 2024
+>  [youtube](https://www.youtube.com/watch?v=k3cI5q8iQA8)
+
+- Le Labyrinthe des égarés - Amin Maalouf
+- Nexus : Une brève histoire des réseaux d'information, de l'âge de pierre à l'IA - Yuval Noah Harari
+- The Hell of Good Intentions : America's Foreign Policy Elite and the Decline of U.S. Primacy - Stephen M. Walt
+- Nous étions seuls : L'histoire diplomatique de la France 1919-1939 - Gérard Araud
+
 ### Guerre Civile en approche : État des Lieux à l'Extrême Droite ? Laurent Obertone
 > 24 octobre 2024
 > [youtube](https://www.youtube.com/watch?v=NmyEqUOgD_U)
