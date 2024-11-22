@@ -6,6 +6,20 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Francophobie en Afrique et dans les DOM-TOM ? Kemi Seba
+> 24 novembre 2024
+> [youtube](https://www.youtube.com/watch?v=Hjgm_mJ5nrs)
+
+- 
+
+### Dislocation de l'Europe : qui partira le premier ? Florian Philippot
+> 21 novembre 2024
+> [youtube](https://www.youtube.com/watch?v=32OJhh95FZU)
+
+- Mémoires de guerre et mémoires d'espoir - Charles de Gaulle
+- Covid 19, ce que révèlent les chiffres officiels fin 2023 (mortalité, tests, vaccins, hôpitaux, la vérité sous nos yeux) - Perre Chaillot
+- L'ami américain - Eric Branca
+
 ### La société rêvée d'Elon Musk : quel avenir ? - Jean-Marc Jancovici & Philippe Bihouix
 > 13 novembre 2024
 > [youtube](https://www.youtube.com/watch?v=6HB2WD96ByQ)
