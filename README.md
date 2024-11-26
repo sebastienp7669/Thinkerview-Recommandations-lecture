@@ -10,7 +10,9 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 > 24 novembre 2024
 > [youtube](https://www.youtube.com/watch?v=Hjgm_mJ5nrs)
 
-- 
+- La crise du monde moderne - René Guénon
+- Civilisation ou barbarie - Cheikh-Anta Diop
+- Discours sur le colonialisme - Aimé Césaire
 
 ### Dislocation de l'Europe : qui partira le premier ? Florian Philippot
 > 21 novembre 2024
