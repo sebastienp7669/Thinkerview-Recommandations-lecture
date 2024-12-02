@@ -6,6 +6,16 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### France au Bord de la Faillite : Eric Coquerel Dévoile les Secrets Financiers ?
+> 29 novembre 2024
+> [youtube](https://www.youtube.com/watch?v=DQC3ffpEeoE)
+
+- L'enfant - Jules Vallès
+- Le bachelier - Jules Vallès
+- L'insurgé - Jules Vallès
+- Cent ans de solitude - Gabriel García Márquez
+- Voyage au bout de la nuit - Louise Ferdinand Céline
+ 
 ### Francophobie en Afrique et dans les DOM-TOM ? Kemi Seba
 > 24 novembre 2024
 > [youtube](https://www.youtube.com/watch?v=Hjgm_mJ5nrs)
