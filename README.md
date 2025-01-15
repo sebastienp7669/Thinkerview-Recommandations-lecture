@@ -6,6 +6,21 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### La France en perdition : Pourquoi et à quoi s'attendre ? Anaïs Voy-Gillis et Maroun Eddé
+> 14 janvier 2025
+> [youtube](https://www.youtube.com/watch?v=AwiO2ifU5QI)
+
+Anaïs Voy-Gillis
+- La Horde du Contrevent - Alain Damasio
+- Les villes invisibles - Italo Calvino
+- La Renaissance de l'industrie : Dialogue entre un industriel et un philosophe - Bernard Charlès et Pierre Musso
+- Fables - Jean de La Fontaine
+
+Maroun Eddé
+- Ces Messieurs de Lazard - Martine Orange
+- Les Nouveaux maîtres du monde, et ceux qui leur résistent - Jean Ziegler
+- La concurrence des victimes : Génocide, identité, reconnaissance - Jean-Michel Chaumont
+
 ### Frexit : Le Destin de la France Face aux Dangers de l'Europe ? François Asselineau
 > 19 décembre 2024
 > [youtube](https://www.youtube.com/watch?v=x8LptIHGww8)
