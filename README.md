@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Espion : L'Homme qui en savait trop ? Marc Eichinger
+> 16 janvier 2025
+> [youtube](https://www.youtube.com/watch?v=n0CQPKMyauw)
+
+- Hannah Arendt - Eichmann à Jérusalem
+- Biographies d'Albert Einstein
+- Biographies de Baruch Spinoza
+
 ### La France en perdition : Pourquoi et à quoi s'attendre ? Anaïs Voy-Gillis et Maroun Eddé
 > 14 janvier 2025
 > [youtube](https://www.youtube.com/watch?v=AwiO2ifU5QI)
