@@ -18,6 +18,13 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 > 14 janvier 2025
 > [youtube](https://www.youtube.com/watch?v=AwiO2ifU5QI)
 
+#### Cité par Anaïs Voy-Gillis
+- La désindustrialisation de la France: 1995-2015 - Nicolas Dufourcq
+
+#### Livre de Maroun Eddé
+- La destruction de l'État
+
+#### Recommandations
 Anaïs Voy-Gillis
 - La Horde du Contrevent - Alain Damasio
 - Les villes invisibles - Italo Calvino
