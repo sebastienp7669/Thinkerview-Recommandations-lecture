@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Où va la France ? David Guiraud
+> 30 janvier 2025
+> [youtube)(https://www.youtube.com/watch?v=Oo8-m8K_foY)
+
+- Sur la télévision - Pierre Bourdieu
+- One Piece - Eiichiro Oda
+- Leur morale et la nôtre - John Dewey, Léon Trotsky
+- L'identité de la France : Les hommes et les choses - Fernand Braudel
+
 ### Espion : L'Homme qui en savait trop ? Marc Eichinger
 > 16 janvier 2025
 > [youtube](https://www.youtube.com/watch?v=n0CQPKMyauw)
