@@ -6,9 +6,22 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Drogues : Les Camés et les Cramés de la Ripoublik ? Philippe Pujol
+> 6 février 2025
+> [youtube](https://www.youtube.com/watch?v=XR3FjJrUZrw)
+
+- 
+
+###  Ambassadeur d'Iran sans filtre ? Mohammad Amin Nejad
+> 5 février 2025
+> [youtube](https://www.youtube.com/watch?v=byA8gKMazs4&list=WL&index=10)
+
+- Shâhnâmeh, le livre des rois persans - Ferdowsi
+- Gulistan ou le jardin des roses - Saadi
+
 ### Où va la France ? David Guiraud
 > 30 janvier 2025
-> [youtube)(https://www.youtube.com/watch?v=Oo8-m8K_foY)
+> [youtube](https://www.youtube.com/watch?v=Oo8-m8K_foY)
 
 - Sur la télévision - Pierre Bourdieu
 - One Piece - Eiichiro Oda
