@@ -10,7 +10,10 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 > 6 février 2025
 > [youtube](https://www.youtube.com/watch?v=XR3FjJrUZrw)
 
-- 
+- Les Enfants du Bronx - Adrian Nicole Leblanc
+- The corner - David Simon
+- Sociologie de Marseille - Michel Peraldi, Claire Duport, Michel Samson
+- Gouverner Marseille : Enquête sur les mondes politiques marseillais - Michel Peraldi, Michel Samson
 
 ###  Ambassadeur d'Iran sans filtre ? Mohammad Amin Nejad
 > 5 février 2025
