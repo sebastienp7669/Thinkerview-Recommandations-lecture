@@ -6,6 +6,18 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Virginie Joron cogne l'UE, corrompue et en crise ?
+> 20 février 2025
+> [youtube](https://www.youtube.com/watch?v=LQEBXqft7bg)
+
+- Les nouveaux chiens de garde - Serge Halimi
+- Socrate, Jésus et Bouddha, Trois Maîtres De Vie - Frédéric Lenoir
+- Tous vaccinés, tous protégés ? Vaccins covid-19, Chronique d'une catastrophe sanitaire annoncée - Christine Cotton
+- Les apprentis sorciers - Alexandra Henrion-Caude
+- Covid 19, ce que révèlent les chiffres officiels fin 2023 - Pierre Chaillot
+- Le réveil, 4 ans après - Christian Perronne
+- The great reset - Klaus Schwab
+
 ### Drogues : Les Camés et les Cramés de la Ripoublik ? Philippe Pujol
 > 6 février 2025
 > [youtube](https://www.youtube.com/watch?v=XR3FjJrUZrw)
