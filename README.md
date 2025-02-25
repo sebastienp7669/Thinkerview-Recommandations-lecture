@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Xavier Fontanet, Des Stratèges ou des Amateurs à la tête de l’État ?
+> 24 février 2025
+> [youtube](https://www.youtube.com/watch?v=ewt9Gml0IPU)
+
+- Du "miracle" en économie: Leçons au Collège de France - Alain Peyrefitte
+- Steve Jobs - Walter Isaacson
+- Grammaire des civilisations - Fernand Braudel
+
 ### Virginie Joron cogne l'UE, corrompue et en crise ?
 > 20 février 2025
 > [youtube](https://www.youtube.com/watch?v=LQEBXqft7bg)
