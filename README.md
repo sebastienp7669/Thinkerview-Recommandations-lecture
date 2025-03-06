@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Ministre des finances sans filtre ? Antoine Armand
+> 5 mars 2025
+> [youtube](https://www.youtube.com/watch?v=5Ls70LOPBLc)
+
+- Terre des Hommes - Antoine de Saint exupéry
+- Parlons-nous tous la même langue ? Comment les imaginaires transforment la France - Frédéric Dabi et Brice Soccol
+- Sans transition: Une nouvelle histoire de l'énergie - Jean-Baptiste Fressoz
+
 ### Xavier Fontanet, Des Stratèges ou des Amateurs à la tête de l’État ?
 > 24 février 2025
 > [youtube](https://www.youtube.com/watch?v=ewt9Gml0IPU)
