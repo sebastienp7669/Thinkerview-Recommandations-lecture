@@ -6,6 +6,26 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Charles de Courson : Macron cauchemarde, la France résiste ?
+> 12 mars 2025
+> [youtube](https://www.youtube.com/watch?v=hRa2qFpuUwQ)
+
+- De la démocratie en Amérique - Alexis de Tocqueville
+- L'Ancien Régime et la Révolution - Alexis de Tocqueville
+- Souvenirs - Alexis de Tocqueville
+- La Comédie Humaine - Honoré de Balzac
+- Objectif Lune - Hergé
+
+### La république,les affaires, que peut encore faire le journalisme ? Marc Endeweld
+> 11 mars 2025
+> [youtube](https://www.youtube.com/watch?v=gzlHOiqeQCY)
+
+- L'âge d'or de la corruption parlementaire 1930-1980 - Jean-Yves Mollier
+- Les patrons de la presse nationale: Tous mauvais - Jean Stern et Olivier Tosas-Giro
+- L'Empire de la douleur - Patrick Radden Keefe
+- La Tech : Quand la Silicon Valley refait le monde - Olivier Alexandre
+- L'Inconnue de Dallas : Une espionne au cœur de l'assassinat de JFK - Mary Haverstick
+
 ### Ministre des finances sans filtre ? Antoine Armand
 > 5 mars 2025
 > [youtube](https://www.youtube.com/watch?v=5Ls70LOPBLc)
