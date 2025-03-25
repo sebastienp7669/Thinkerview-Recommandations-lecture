@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+###  Reprendre le pouvoir ou finir esclaves ? Nicolas Dupont-Aignan
+> 25 mars 2025
+> [youtube](https://www.youtube.com/watch?v=y1_I2iYUzlE)
+
+- Mémoires d'Hadrien - Marguerite Yourcenar
+- (Film) Le sel de la terre -  Wim Wenders, Juliano Ribeiro Salgado (2014)
+- Lettres à la petite fille qui vient de naître - Patrice Franceschi
+
 ### François Ecalle : Le Déni Politique pour une Réalité qui Frappe ?
 > 17 mars 2025
 > [youtube](https://www.youtube.com/watch?v=4VeVU5tG_pg)
