@@ -6,7 +6,15 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
-###  Reprendre le pouvoir ou finir esclaves ? Nicolas Dupont-Aignan
+### Métadonnées, l'arme invisible, Sommes nous déjà tous fichés ? Alexis Roussel
+> 29 mars 2025
+> [youtube](https://www.youtube.com/watch?v=DNKpou9EhaQ)
+
+- Petite Poucette - Michel Serres
+- The Sovereign Individual: Mastering the Transition to the Information Age - James Dale Davidson
+- Abdullah Öcalan - Le confédéralisme démocratique (https://fr.anarchistlibraries.net/library/abdullah-ocalan-confederalisme-democratique)
+
+### Reprendre le pouvoir ou finir esclaves ? Nicolas Dupont-Aignan
 > 25 mars 2025
 > [youtube](https://www.youtube.com/watch?v=y1_I2iYUzlE)
 
