@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### La mort est dans le pré : Les dessous de l'élevage selon Ulysse Thevenon ?
+> 10 avril 2025
+> [youtube](https://www.youtube.com/watch?v=5zlUi58u3ek)
+
+- Plutôt nourrir - Noémia Calais & Clément Osé
+- La Horde du Contrevent - Alain Damasio
+- Il n'y a plus personne - Noémie Alazard (https://fr.ulule.com/roman-il-n-y-a-plus-personne-/)
+
 ### Prémices d'une insurrection : Les ZFE, étincelle d'un chaos social ? Alexandre Jardin
 > 02 avril 2025
 > [youtube](https://www.youtube.com/watch?v=fuoooFw-nz0)
