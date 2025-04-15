@@ -6,6 +6,12 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Géopolitique, Guerres, Propagandes et PsyOps ? Caroline Galactéros
+> 15 avril 2025
+> [youtube](https://www.youtube.com/watch?v=JI4AfaYq4fM)
+
+- 
+
 ### La mort est dans le pré : Les dessous de l'élevage selon Ulysse Thevenon ?
 > 10 avril 2025
 > [youtube](https://www.youtube.com/watch?v=5zlUi58u3ek)
