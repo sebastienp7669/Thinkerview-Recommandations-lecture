@@ -10,7 +10,9 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 > 15 avril 2025
 > [youtube](https://www.youtube.com/watch?v=JI4AfaYq4fM)
 
-- 
+- Le grand échiquier: L'Amérique et le reste du monde - Zbigniew Brzezinski
+- La Guerre hors limites -  Qiao Liang & Wang Xiangsui
+- Le mage du Kremlin - Giuliano da Empoli 
 
 ### La mort est dans le pré : Les dessous de l'élevage selon Ulysse Thevenon ?
 > 10 avril 2025
