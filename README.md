@@ -6,6 +6,22 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Société et relations, et si on communiquait sans violence? Thomas D'Ansembourg
+> 29 avril 2025
+> [youtube](https://www.youtube.com/watch?v=0e47GkSwvIQ)
+
+- Le chemin le moins fréquenté: Apprendre à vivre avec la vie - Scott Peck
+- Père manquant fils manqué: De la blessure à la parole - Guy Corneau
+- Le pouvoir du moment présent: Guide d'éveil spirituel - Eckhart Tolle
+
+### Comprendre le Gourou des Gourous de Wall Street ? Shane Parrish
+> 25 avril 2025
+> [youtube](https://www.youtube.com/watch?v=-Me6_LYcKG0)
+
+- Poor Charlie’s Almanack: The Essential Wit & Wisdom of Charles T. Munger - Charles T. Munger
+- Seeking Wisdom : From Darwin to Munger - Peter Bevelin
+- Méditations - Marc Aurèle
+
 ### Géopolitique, Guerres, Propagandes et PsyOps ? Caroline Galactéros
 > 15 avril 2025
 > [youtube](https://www.youtube.com/watch?v=JI4AfaYq4fM)
