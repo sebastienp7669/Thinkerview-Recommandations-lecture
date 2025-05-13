@@ -6,6 +6,36 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Urgences énergétiques, la réalité sans filtre ? P. Charlez, F. Perrin et N. Meilhan
+> 12 mai 2025
+> [youtube](https://www.youtube.com/watch?v=JiL-IEDFd6Y)
+
+## Nicolas Meilhan
+- Ressources: Un défi pour l'humanité - Vincent Perriot et Philippe Bihouix
+- L'Âge des low tech: vers une civilisation techniquement soutenable - Philippe Bihouix
+- Les autres ne pensent pas comme nous - Maurice Gourdault-Montagne
+- Bienvenue en économie de guerre - David Baverez
+
+## Philippe Charlez
+- Les illusionnistes - Géraldine Woessner et Erwan Seznec
+- Rien n'est joué - Jacques Lecomte
+- De Gaïa à l'IA: Pour une science libérée de l'écologisme - Jean-Paul Oury
+
+## Francis Perrin
+- Perspectives énergétiques mondiales (AIE) (https://www.iea.org/search?q=world%20energy%20outlook)
+- World oil outlook (OPEP) (https://www.opec.org/world-oil-outlook.html)
+- Publications du Département de l'Energie US (DOE) (https://www.energy.gov/cfo/reports)
+
+### Guerre économique : l'Europe, charogne rongée à l'os ? David Baverez
+> 30 avril 2025
+> [youtube](https://www.youtube.com/watch?v=8modwd3AP5s)
+
+- De la Chine - Henry Kissinger
+- Dragon tactics: Les tactiques des entrepreneurs chinois pour mieux diriger dans l'incertitude - Sandrine Zerbib
+- La roulette chinoise - Argent, pouvoir, corruption et vengeance dans la Chine d'aujourd'hui - Desmond Shum
+- La connaissance inutile - Jean-François Revel
+- Homo Cretinus: Le triomphe de la bêtise - Olivier Postel-Vinay 
+
 ### Société et relations, et si on communiquait sans violence? Thomas D'Ansembourg
 > 29 avril 2025
 > [youtube](https://www.youtube.com/watch?v=0e47GkSwvIQ)
