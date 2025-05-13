@@ -10,18 +10,18 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 > 12 mai 2025
 > [youtube](https://www.youtube.com/watch?v=JiL-IEDFd6Y)
 
-## Nicolas Meilhan
+#### Nicolas Meilhan
 - Ressources: Un défi pour l'humanité - Vincent Perriot et Philippe Bihouix
 - L'Âge des low tech: vers une civilisation techniquement soutenable - Philippe Bihouix
 - Les autres ne pensent pas comme nous - Maurice Gourdault-Montagne
 - Bienvenue en économie de guerre - David Baverez
 
-## Philippe Charlez
+#### Philippe Charlez
 - Les illusionnistes - Géraldine Woessner et Erwan Seznec
 - Rien n'est joué - Jacques Lecomte
 - De Gaïa à l'IA: Pour une science libérée de l'écologisme - Jean-Paul Oury
 
-## Francis Perrin
+#### Francis Perrin
 - Perspectives énergétiques mondiales (AIE) (https://www.iea.org/search?q=world%20energy%20outlook)
 - World oil outlook (OPEP) (https://www.opec.org/world-oil-outlook.html)
 - Publications du Département de l'Energie US (DOE) (https://www.energy.gov/cfo/reports)
