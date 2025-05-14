@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Juan Branco sans filtre ? Avant les présidentielles.
+> 13 mai 2025
+> [youtube](https://www.youtube.com/watch?v=OJORL8TtRoc)
+
+- Les misérables - Victor Hugo
+- Les enfants Tanner - Robert Walser
+- Or noir: La grande histoire du pétrole - Matthieu Auzanneau
+
 ### Urgences énergétiques, la réalité sans filtre ? P. Charlez, F. Perrin et N. Meilhan
 > 12 mai 2025
 > [youtube](https://www.youtube.com/watch?v=JiL-IEDFd6Y)
