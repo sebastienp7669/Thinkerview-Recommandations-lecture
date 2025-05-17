@@ -6,6 +6,13 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Sarah Knafo sans filtre : où va la France ?
+> 16 mai 2025
+> [youtube](https://www.youtube.com/watch?v=2A82fN8ZeUs)
+
+- Belle du seigneur - Albert Cohen
+- Avril brisé - Ismaïl Kadaré
+
 ### Juan Branco sans filtre ? Avant les présidentielles.
 > 13 mai 2025
 > [youtube](https://www.youtube.com/watch?v=OJORL8TtRoc)
