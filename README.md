@@ -6,6 +6,23 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Énergie, face cachée de la monnaie ? Sébastien Gouspillou et Pierre Noizat
+> 26 mai 2025
+> [youtube](https://www.youtube.com/watch?v=yBJS9ry3nmc)
+
+#### Livre des invités
+- L’énergie, face cachée de la monnaie - Pierre Noizat et Edouard Gallego
+
+#### Recommandations
+Pierre Noizat
+- Tao Te King - Lao Tseu
+- L'athéisme expliqué aux croyants - Paul Desalmand
+- L'Internet de l'argent - Andreas Antonopoulos
+
+Sébastien Gouspillou
+- La Bible
+- Zadig - Voltaire
+
 ### Électricité : Les prix vont-ils exploser ? André Merlin et Vincent Delahaye
 > 20 mai 2025
 > (youtube)[https://www.youtube.com/watch?v=4cECbyta92Y]
