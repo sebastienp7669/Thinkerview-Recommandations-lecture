@@ -6,6 +6,19 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Électricité : Les prix vont-ils exploser ? André Merlin et Vincent Delahaye
+> 20 mai 2025
+> (youtube)[https://www.youtube.com/watch?v=4cECbyta92Y]
+
+#### André Merlin:
+- 20 000 lieues sous les mers - Jules Verne
+- Michel Strogoff - Jules Verne
+
+#### Vincent Delahaye
+- Mémoires - Raymond Aron
+- Le premier homme - Albert Camus
+- L'archipel français - Jérôme Fourquet
+
 ### Sarah Knafo sans filtre : où va la France ?
 > 16 mai 2025
 > [youtube](https://www.youtube.com/watch?v=2A82fN8ZeUs)
