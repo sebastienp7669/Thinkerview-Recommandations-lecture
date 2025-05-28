@@ -6,8 +6,18 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Doit-on avoir peur de la Chine ? André Chieng
+> 27 mai 2025
+> [youtube](https://www.youtube.com/watch?v=3CtQSvy5558)
+
+- Figures de l’immanence. Pour une lecture philosophique du Yi king - François Julien
+- Le Détour et l’Accès. Stratégies du sens en Chine, en Grèce - François Julien
+- Les Transformations silencieuses - François Julien
+- De la Chine - Henry Kissinger
+- L'Ancien régime et la Révolution - Alexis de Tocqueville
+
 ### Énergie, face cachée de la monnaie ? Sébastien Gouspillou et Pierre Noizat
-> 26 mai 2025
+> 27 mai 2025
 > [youtube](https://www.youtube.com/watch?v=yBJS9ry3nmc)
 
 #### Livre des invités
