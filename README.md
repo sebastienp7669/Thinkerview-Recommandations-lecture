@@ -6,6 +6,13 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Géopolitique des épidémies. Renaud Piarroux
+> 5 juin 2025
+> [youtube](https://www.youtube.com/watch?v=eRA5EdgvTQg)
+
+- La gerre des mondes - H.G. Wells
+- 1493: Comment la découverte de l'Amérique a transformé le reste du monde - Charles C. Mann et Marina Boraso
+
 ### Doit-on avoir peur de la Chine ? André Chieng
 > 27 mai 2025
 > [youtube](https://www.youtube.com/watch?v=3CtQSvy5558)
