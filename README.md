@@ -6,6 +6,24 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### David Lisnard sans filtre : Où va la France ?
+> 10 juin 2025
+> [youtube](https://www.youtube.com/watch?v=0yIVUAptUAg)
+
+- Les fleurs du mal - Charles Baudelaire
+- 1984 - George Orwell
+- Oeuvres de René Goscinny
+- Arsène Lupin - Maurice Leblanc
+- San Antonio - Frédéric Dard
+- Oeuvres d'Alexandre Viallate
+- Oeuvres de Milan Kundera
+- Oeuvres de Leon Tolstoï
+- Oeuvres de Fiodor Dostoïevski
+- Poèmes de Victor Hugo
+- Poèmes de Stéphane Mallarmé
+- Oeuvres de David Lodge
+- Poèmes de de Paul Valéry
+
 ### Géopolitique des épidémies. Renaud Piarroux
 > 5 juin 2025
 > [youtube](https://www.youtube.com/watch?v=eRA5EdgvTQg)
