@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Diplomatie en déclin : Le diagnostic d'un d'ambassadeur ? Maurice Gourdault-Montagne
+> 11 juin 2025
+> [youtube](https://www.youtube.com/watch?v=L7GIS6Ol5-I)
+
+- Mémoires du prince de Ligne... - Lacroix et Charles-Joseph de Ligne
+- De Staline à Hitler: Mémoires d'un ambassadeur - Robert Coulondre
+- Le Monde d'hier: Souvenirs d'un Européen - Stefan Zweig
+- Diverses autobiographies
+
 ### David Lisnard sans filtre : Où va la France ?
 > 10 juin 2025
 > [youtube](https://www.youtube.com/watch?v=0yIVUAptUAg)
