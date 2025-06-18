@@ -6,13 +6,6 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
-### Iran nucléaire: Entre souveraineté, escalade et chaos mondial ? Mohammad Amin Nejad
-> 16 juin 2025
-> [youtube](https://www.youtube.com/watch?v=OZvBpZdrmaA)
-
-- Poèmes de Hafez: Le Divân de Hafez
-- Poèmes de Saadi: Kolliāt
-
 ### L'Homme a besoin de passion pour exister. Marie Tabarly sans filtre.
 > 17 juin 2025
 > [youtube](https://www.youtube.com/watch?v=AAI7N7ipb6Q)
@@ -24,6 +17,13 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 - Odyssée de l'Endurance - Ernest Henry Shackleton
 - Ocean's songs - Olivier de Kersauson
 - Océane - Florence Arthaud
+
+### Iran nucléaire: Entre souveraineté, escalade et chaos mondial ? Mohammad Amin Nejad
+> 16 juin 2025
+> [youtube](https://www.youtube.com/watch?v=OZvBpZdrmaA)
+
+- Poèmes de Hafez: Le Divân de Hafez
+- Poèmes de Saadi: Kolliāt
 
 ### Diplomatie en déclin : Le diagnostic d'un d'ambassadeur ? Maurice Gourdault-Montagne
 > 11 juin 2025
