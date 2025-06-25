@@ -6,6 +6,17 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Explosez l’Incertitude, Comment Penser l'Avenir en Profondeur ? Jérôme Clech
+> 24 juin 2025
+> [youtube](https://www.youtube.com/watch?v=0Nc9VHlw_Sg)
+
+#### Livre de l'invité
+- Yanaï, une journée réussie - Jérome Clech
+
+#### Recommandations
+- Vers un monde univoque: Sur la perte d’ambiguïté et de diversité - Thomas Baure & Christopher Pollmann
+- La Cité aux murs incertains - Haruki Murakami
+
 ### L'Homme a besoin de passion pour exister. Marie Tabarly sans filtre.
 > 17 juin 2025
 > [youtube](https://www.youtube.com/watch?v=AAI7N7ipb6Q)
