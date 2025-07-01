@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Juan Branco : Empoisonnement ?
+> 30 juin 2025
+> [youtube](https://www.youtube.com/watch?v=wMCaq5I4PJ0)
+
+- Oeuvres de Rainer Maria Rilke
+- Oeuvres de Jean Racine
+- Le monde comme volonté et comme représentation - Arthur Schopenhauer
+
 ### Explosez l’Incertitude, Comment Penser l'Avenir en Profondeur ? Jérôme Clech
 > 24 juin 2025
 > [youtube](https://www.youtube.com/watch?v=0Nc9VHlw_Sg)
