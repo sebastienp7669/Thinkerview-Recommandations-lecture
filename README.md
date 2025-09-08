@@ -6,6 +6,22 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Une catastrophe financière biblique à l'horizon ? Marc Touati
+> 3 septembre 2025
+> [youtube](https://www.youtube.com/watch?v=AyMUu3wrcU8)
+
+- La Bible
+- Théorie générale de l'emploi, de l'intérêt et de la monnaie - John Maynard Keynes
+
+### Rima Hassan sans filtre ?
+> 2 septembre 2025
+> [youtube](https://www.youtube.com/watch?v=K3UBNnpvxpw)
+
+- Le Droit au retour : Le Problème des réfugiés palestiniens - Collectif
+- Israël-Palestine, la solution : un Etat - Ghada Karmi
+- Un État commun: Entre le Jourdain et la mer - Eric Hazan & Eyal Sivan
+- Lettre à un ami juif - Ibrahim Souss
+
 ### Juan Branco : Empoisonnement ?
 > 30 juin 2025
 > [youtube](https://www.youtube.com/watch?v=wMCaq5I4PJ0)
