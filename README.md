@@ -10,7 +10,9 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 > 8 septembre 2025
 > [youtube](https://www.youtube.com/watch?v=gJLIMGRTACQ)
 
-- 
+- Mémoires d'Hadrien - Marguerite Yourcenar
+- Le Prince - Nicolas Machiavel
+- Mémoires - Charles de Gaulle
 
 ### Une catastrophe financière biblique à l'horizon ? Marc Touati
 > 3 septembre 2025
