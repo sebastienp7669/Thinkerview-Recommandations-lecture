@@ -6,6 +6,12 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Jean-Philippe Tanguy sans filtres ?
+> 8 septembre 2025
+> [youtube](https://www.youtube.com/watch?v=gJLIMGRTACQ)
+
+- 
+
 ### Une catastrophe financière biblique à l'horizon ? Marc Touati
 > 3 septembre 2025
 > [youtube](https://www.youtube.com/watch?v=AyMUu3wrcU8)
