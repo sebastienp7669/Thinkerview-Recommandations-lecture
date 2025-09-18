@@ -6,6 +6,37 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Hacking, vie privée et Europe ? Bluetouff, Fabrice Epelboin et Brice Augras-ZaX
+> 17 septembre 2025
+> [youtube](https://www.youtube.com/watch?v=ZL-XxW8VTx8)
+
+Bluetouff
+- Le prince - Nicolas Machiavel
+- Le rêve d'un homme ridicule - Fédor Dostoïevski
+
+Fabrice Epelboin
+- L'homme révolté - Albert Camus
+
+Brice Augras-ZaX
+- [Travaux de James Kettle sur HTTP 1.1](https://http1mustdie.com/) - James Kettle
+- Ressource de l'ANSSI (Hygiène numérique, MOOC)
+
+### Le pays va-t-il s'effondrer ? Henri Proglio et Bernard Accoyer
+> 15 septembre 2025
+> [youtube](https://www.youtube.com/watch?v=JN2zNkcy9ZA)
+
+#### Livre de Bernard accoyer (et Géraldine Maillet):
+Une affaire d'état - La tentative du sabordage dunucléaire français
+
+Henri Proglio
+- Oeuvres de H.P. Lovecraft
+- Oeuvres d'Isaac Asimov
+
+Bernard Accoyer
+- A l'assaut du réel - Gérald Bronner
+- L'étranger - Albert Camus
+- 1984 - George Orwell
+
 ### Jean-Philippe Tanguy sans filtres ?
 > 8 septembre 2025
 > [youtube](https://www.youtube.com/watch?v=gJLIMGRTACQ)
