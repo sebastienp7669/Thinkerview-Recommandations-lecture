@@ -6,6 +6,17 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Stratégie et influence religieuse. Florence Bergeaud-Blackler
+> 7 octobre 2025
+> [youtube](https://www.youtube.com/watch?v=AN98CFjpGuk)
+
+- Corps pour corps: Enquête sur la sorcellerie dans le Bocage - Jeanne Favret-Saada
+- Les mots, la mort, les sorts - Jeanne Favret-Saada
+- Les sensibilités religieuses blessées: Christianismes, blasphèmes et cinéma. 1965-1988 - Jeanne Favret-Saada
+- Comment produire une crise mondiale avec douze petits dessins - Jeanne Favret-Saada
+- Oeuvres de Claude Lévi-Strauss
+- Oeuvres de Erving Gofman
+
 ### Hacking, vie privée et Europe ? Bluetouff, Fabrice Epelboin et Brice Augras-ZaX
 > 17 septembre 2025
 > [youtube](https://www.youtube.com/watch?v=ZL-XxW8VTx8)
