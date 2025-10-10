@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Intelligence artificielle : l'oubli de l’humanité, choc civilisationnel ? Éric Sadin
+> 9 octobre 2025
+> [youtube](https://www.youtube.com/watch?v=T4ofzhiEkmE)
+
+- La machine gouverne - Paul Valéry
+- Pourquoi je hais l'indifférence - Antonio Gramsci
+- Spinoza, philosophie pratique - Gilles Deleuze
+
 ### Stratégie et influence religieuse. Florence Bergeaud-Blackler
 > 7 octobre 2025
 > [youtube](https://www.youtube.com/watch?v=AN98CFjpGuk)
