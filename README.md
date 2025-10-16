@@ -6,6 +6,18 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Otage des djihadistes, face à la mort pendant 2 ans. Olivier Dubois
+> 14 octobre 2025
+> [youtube](https://www.youtube.com/watch?v=6NAyskMTw3Y)
+
+#### Livre de l'invité
+Prisonnier du désert - 711 jours aux mains d'Al-Qaïda
+
+#### Recommandations
+- Cher pays de notre enfance - Benoît Collombat et Étienne Davodeau
+- Le grand jeu - Peter Hopkirk
+- Madame St-Clair. Reine de Harlem - Raphaël Confiant
+
 ### Intelligence artificielle : l'oubli de l’humanité, choc civilisationnel ? Éric Sadin
 > 9 octobre 2025
 > [youtube](https://www.youtube.com/watch?v=T4ofzhiEkmE)
@@ -29,14 +41,14 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 > 17 septembre 2025
 > [youtube](https://www.youtube.com/watch?v=ZL-XxW8VTx8)
 
-Bluetouff
+#### Bluetouff
 - Le prince - Nicolas Machiavel
 - Le rêve d'un homme ridicule - Fédor Dostoïevski
 
-Fabrice Epelboin
+#### Fabrice Epelboin
 - L'homme révolté - Albert Camus
 
-Brice Augras-ZaX
+#### Brice Augras-ZaX
 - [Travaux de James Kettle sur HTTP 1.1](https://http1mustdie.com/) - James Kettle
 - Ressource de l'ANSSI (Hygiène numérique, MOOC)
 
@@ -45,13 +57,13 @@ Brice Augras-ZaX
 > [youtube](https://www.youtube.com/watch?v=JN2zNkcy9ZA)
 
 #### Livre de Bernard accoyer (et Géraldine Maillet):
-Une affaire d'état - La tentative du sabordage dunucléaire français
+Une affaire d'état - La tentative du sabordage du nucléaire français
 
-Henri Proglio
+#### Henri Proglio
 - Oeuvres de H.P. Lovecraft
 - Oeuvres d'Isaac Asimov
 
-Bernard Accoyer
+#### Bernard Accoyer
 - A l'assaut du réel - Gérald Bronner
 - L'étranger - Albert Camus
 - 1984 - George Orwell
@@ -1944,19 +1956,16 @@ Noam Anouar :
 > 14 octobre 2020
 > [youtube](https://youtu.be/E7QnwVx2fY0) - [peertube](https://thinkerview.video/videos/watch/e7e3ca14-bef3-462f-af71-8a1bf40211cb)
 
-Nicolas Meilhan :
-
+#### Nicolas Meilhan :
 - Les Limites à la croissance - Donella Meadows, Dennis Meadows, Jørgen Randers & William W. Behrens III
 - L'Âge des low tech - Philippe Bihouix
 - Or noir. La grande Histoire du pétrole - Matthieu Auzanneau
 
-Philippe Bihouix :
-
+#### Philippe Bihouix :
 - Énergie et équité - Ivan Illich
 - La politique de l'oxymore - Bertrand Méheust
 
 ### Adieu les cons, transhumance suicidaire ? Albert Dupontel
-
 > 14 octobre 2020
 > [youtube](https://youtu.be/vrus2Jwi67A) - [peertube](https://thinkerview.video/videos/watch/c1907464-557d-4009-9347-6bda8f6e6456) - [captainfact](https://captainfact.io/videos/gx13)
 
@@ -1964,14 +1973,13 @@ Philippe Bihouix :
 - De l'inégalité parmi les sociétés - Jared Diamond
 - Les Travailleurs de la mer - Victor Hugo
 
-3 films sont également cités :
+#### Films sont également cités :
 
 - Being There - Hal Ashby
 - Un condamné à mort s'est échappé - Robert Bresson
 - Brazil - Terry Gilliam
 
 ### La fin d’un monde commun ? Éric Sadin
-
 > 6 octobre 2020
 > [youtube](https://youtu.be/suHXQfpBTxM) - [peertube](https://thinkerview.video/videos/watch/7e04626d-3c27-4d62-bc7a-9506cd84e7db)
 
@@ -1980,7 +1988,6 @@ Philippe Bihouix :
 - Le public et ses problèmes - John Dewey
 
 ### Chaos économique, blanchiment bancaire ? Gaël Giraud 
-
 > 25 septembre 2020
 > [youtube](https://youtu.be/-8j8xgkZxuE) - [peertube](https://thinkerview.video/videos/watch/ad6a6435-d0e1-40a2-a93b-c1a309dc4c2e)
 
@@ -1989,7 +1996,6 @@ Philippe Bihouix :
 - The Age of Sustainability - Mark Swilling
 
 ### Les sangsues de la République ? Isabelle Saporta
-
 > 17 septembre 2020
 > [youtube](https://youtu.be/4DJkr2whd5g)
 
@@ -1999,7 +2005,6 @@ Philippe Bihouix :
 - A la recherche du temps perdu - Marcel Proust
 
 ### Crise économique, débats interdits en France ? Jean-Paul Fitoussi 
-
 > 10 septembre 2020
 > [youtube](https://youtu.be/KelxO3PYthI)
 
@@ -2010,19 +2015,16 @@ Philippe Bihouix :
 - Rational Fools: A Critique of the Behavioral Foundations of Economic Theory - Amartya K. Sen
 
 ### Souveraineté numérique, la douche froide ? Tariq Krim et Bernard Benhamou
-
 > 17 juillet 2020
 > [youtube](https://youtu.be/2iErDLlIlG4)
 
-Bernard Benhamou :
-
+#### Bernard Benhamou :
 - The Age of Surveillance Capitalism - Shoshana Zuboff
 - Code et autres lois du cyberespace - Lawrence Lessig
 - Black Box Society - Frank Pasquale
 - The Entrepreneurial State: Debunking Public vs. Private Sector Myths - Mariana Mazzucato
 
-Tariq Krim :
-
+#### Tariq Krim :
 - Fatherland - Robert Harris
 - Swastika Night - Katharine Burdekin
 - Alone Together: Why We Expect More from Technology and Less from Each Other - Sherry Turkle
@@ -2030,7 +2032,6 @@ Tariq Krim :
 - Le nid du coucou - Clifford Stoll
 
 ### L'espion, le Covid et le truand ? Maxime Renahy
-
 > 1er juillet 2020
 > [youtube](https://youtu.be/-NN89JhzOvk)
 
@@ -2039,23 +2040,19 @@ Tariq Krim :
 - La convivialité - Ivan Illich
 
 ### Solidité du système financier et des retraites ? F.X. Selleret et P. Sabatier 
-
 > 17 juin 2020
 > [youtube](https://youtu.be/NS8acSbI1Bs)
 
-François-Xavier Selleret :
-
+#### François-Xavier Selleret :
 - De Gaulle - Jean Lacouture
 - Le Monde d'hier, souvenirs d'un Européen - Stefan Zweig
 - Lettres à un jeune poète - Rainer Maria Rilke
 
-Pierre Sabatier : 
-
+#### Pierre Sabatier : 
 - Chroniques italiennes - Stendhal
 - Le Cygne noir - Nassim Nicholas Taleb
 
 ### Choc économique : Perspectives alternatives ? Isabelle Delannoy
-
 > 3 juin 2020
 > [youtube](https://youtu.be/xQ3BoOCSdXE)
 
@@ -2064,22 +2061,18 @@ Pierre Sabatier :
 - Rêver l'obscur : femmes, magie et politique - Starhawk
 
 ### Un monde malade : quelles sont les pistes ? DataGueule
-
 > 3 juin 2020
 > [youtube](https://youtu.be/Fd0_wdle4Ts)
 
-Henri Poulain :
-
+#### Henri Poulain :
 - Quatuor de Los Angeles - James Ellroy
 
-Sylvain Lapoix : 
-
+#### Sylvain Lapoix : 
 - La Gouvernance par les nombres - Alain Supiot
 - Les dépossédés - Ursula Le Guin
 -  Americanah - Chimamanda Ngozi Adichie
 
 ### COVID-19, panique sociale, scientifique et politique ? Philippe Douste-Blazy
-
 > 27 mai 2020
 > [youtube](https://youtu.be/yAi_GKbpKUQ)
 
@@ -2088,7 +2081,6 @@ Sylvain Lapoix :
 - Stefan Zweig
 
 ### COVID-19, Crise financière, Chine, Menace sur la France. Christian Harbulot
-
 > 20 mai 2020
 > [youtube](https://youtu.be/QMgfIVYqZTM)
 
@@ -2097,7 +2089,6 @@ Sylvain Lapoix :
 - La Guerre froide de la France - Georges-Henri Soutou
 
 ### Insurrections, Espions, COVID-19, Crise mondiales. Bernard Squarcini
-
 > 15 mai 2020
 > [youtube](https://youtu.be/AY2tCBZZy5I)
 
@@ -2106,7 +2097,6 @@ Sylvain Lapoix :
 - Le fil de l'épée - Charles de Gaulle 
 
 ### Migrants/Réfugiés, le grand scandale ? Jean Ziegler
-
 > 3 mars 2020
 > [youtube](https://youtu.be/MLOQAZXwVWQ)
 
@@ -2115,7 +2105,6 @@ Sylvain Lapoix :
 - Le Siècle du populisme - Pierre Rosanvallon
 
 ### Collapsologie, anxiété et dépression ? Glenn Albrecht
-
 > 28 février 2020
 > [youtube VO](https://youtu.be/n7yxxa4iFwc) | [youtube VF](https://youtu.be/z-boL89uKLo)
 
@@ -2125,7 +2114,6 @@ Sylvain Lapoix :
 - Le Pèlerin - John Alec Baker 
 
 ### Général 5 étoiles face à la bombe nucléaire ? Bernard Norlai
-
 > 24 février 2020
 > [youtube](https://youtu.be/hTl3XDZLQ0Q)
 
@@ -2137,8 +2125,7 @@ Sylvain Lapoix :
 > 4 février 2020
 > [youtube](https://youtu.be/RgmLorXQpNM)
 
-Un livre par auteur cité : 
-
+#### Un livre par auteur cité : 
 - Le temps des investis - Michel Feher
 - Ce monde qui nous echappe - Virginie Martin
 - Garde-corps - Virginie Martin
@@ -2153,8 +2140,7 @@ Un livre par auteur cité :
 - L'exploitation domestique - Chrisitine Delphi
 - Les couilles sur la table - Victoire Tuaillon
 
-Recommandations Séries/films : 
-
+#### Recommandations Séries/films : 
 - Parasites de Bong Joon-ho
 - Scandale
 - Murder
@@ -2162,7 +2148,6 @@ Recommandations Séries/films :
 - Ugly Betty
 
 ### La religion de la croissance économique? Delphine Batho
-
 > 29 janvier 2020
 > [youtube](https://youtu.be/K_fsNDjhwks)
 
@@ -2171,7 +2156,6 @@ Recommandations Séries/films :
 - Une écologie décoloniale - Malcom Ferdinand
 
 ### Humour, pensée formatée et politiquement correct ? Thomas Wiesel
-
 > 7 janvier 2020
 > [youtube](https://youtu.be/GyoW77ZervA)
 
@@ -2180,7 +2164,6 @@ Recommandations Séries/films :
 - Frédéric Beigbeder
 
 ### Macron : les réseaux secrets ? Marc Endeweld
-
 > 19 décembre 2019
 > [youtube](https://youtu.be/PvfXlbk-n9c)
 
@@ -2188,14 +2171,12 @@ Recommandations Séries/films :
 - Les patrons de la presse nationale: tous mauvais - Jean Stern
 - Corruption - Don Wislow 
 
-Livres de l'invité :
-
+#### Livres de l'invité :
 - France Télévisions, Off the Record: Histoires secrètes d'une télé publique sous influences
 - L'ambigu Monsieur Macron
 - Le grand manipulateur
 
 ### L'enfumage de la transition écologique ? Guillaume Pitron
-
 > 18 décembre 2019
 > [youtube](https://www.youtube.com/watch?v=2lHTHINmNVk)
 
@@ -2204,8 +2185,7 @@ Livres de l'invité :
 - Sobriété numérique - Les clés pour agir - Frédéric Bordage
 - Une brève histoire du futur : Comment la science va changer le monde - Michio Kaku
 
-Livres cités pendant l'interview:
-
+#### Livres cités pendant l'interview:
 - Ravage - René Barjavel 
 - Le mythe de la fin du monde de l'Antiquité à 2012 - Luc Mary
 - Comment tout peut s'effondrer. Petit manuel de collapsologie à l'usage des générations présentes - Pablo Servigne & Raphael Stevens 
@@ -2213,7 +2193,6 @@ Livres cités pendant l'interview:
 - La guerre des métaux rares: La face cachée de la transition énergétique et numérique - Guillaume Pitron
 
 ### Guerre économique, surveillance de masse ? Cédric O
-
 > 12 décembre 2019
 > [youtube](https://youtu.be/MJ7ZOn222Ig)
 
@@ -2222,14 +2201,12 @@ Livres cités pendant l'interview:
 - La Griffe du chien - Don Winslow
 
 ### Propagande et contre-propagande ? Christophe Stalla-Bourdillon
-
 > 26 novembre 2019
 > [youtube](https://youtu.be/1sOgeAeBZ1I)
 
 Pas de recommandation lecture. 
 
 ### Crise de la masculinité ? Francis Dupuis-Déri
-
 > 21 novembre 2019
 > [youtube](https://youtu.be/ndXqR_aWHcU)
 
@@ -2242,7 +2219,6 @@ Pas de recommandation lecture.
 - La pensée féministe noire - Patricia Hill Collins 
 
 ### Camisole numérique pour votre bien ? Gilles Babinet
-
 > 14 novembre 2019
 > [youtube](https://youtu.be/V4yf3HOEHPk)
 
@@ -2250,7 +2226,6 @@ Pas de recommandation lecture.
 - La Formation de l'esprit scientifique - Gaston Bachelard
 
 ### L’agroalimentaire vu de l’intérieur, intoxication ? Christophe Brusset
-
 > 7 novembre 2019
 > [youtube](https://youtu.be/lXXp-PVQ0HQ)
 
@@ -2259,12 +2234,10 @@ Pas de recommandation lecture.
 - Tribulations d'un précaire - Iain Levison
 
 #### Livres cités pendant l'interview :
-
 - Et maintenant, on mange quoi ? : Un ancien industriel de l'agroalimentaire vous aide à faire les bons choix - Christophe Brusset
 - L'Empire de l'or rouge - Jean-Baptiste Malet
 
 ### Europe, dictature technocratique ? Costa-Gavras
-
 > 4 novembre 2019
 > [youtube](https://youtu.be/fNylkT2QW4U)
 
@@ -2273,25 +2246,21 @@ Pas de recommandation lecture.
 - Honoré de Balzac
 
 ### Clientélisme politique et Moyen-Orient : Agnès Levallois et Pierre Conesa 
-
 > 24 octobre 2019
 > [youtube](https://youtu.be/MdtxJxaF_0w)
 
-Agnès Levallois :
-
+#### Agnès Levallois :
 - Atlas du Moyen-Orient. Aux racines de la violence - Jean-Paul Chagnollaud et Pierre Blanc
 - J’ai couru vers le Nil - Alaa al-Aswany
 - La ceinture - Ahmed Abodehman
 - Syrie, l'Etat de barbarie - Michel Seurat 
 
-Pierre Conesa :
-
+#### Pierre Conesa :
 - Au coeur des services spéciaux: La menace islamiste : fausses pistes et vrais dangers - Alain Chouet
 - La Fabrication de l'ennemi: ou Comment tuer avec sa conscience pour soi - Pierre Conesa
 - Le Califat, histoire politique de l'Islam - Nabil Mouline
 
 ### Médias, les nouveaux GUIGNOLS ? Bruno Gaccio
-
 > 16 octobre 2019
 > [youtube](https://youtu.be/TFk_w_N2xXM)
 
@@ -2300,40 +2269,31 @@ Pierre Conesa :
 - Qui a tué mon père - Édouard Louis
 
 ### L'explosion des banques ? Christophe Nijdam & Jérôme Cazes
-
 > 9 octobre 2019
 > [youtube](https://youtu.be/5WHg49trJCw)
 
-Christophe Nijdam : 
-
+#### Christophe Nijdam : 
 - Sapiens : Une brève histoire de l'humanité - Yuval Noah Harari
 - The Untold History of the United States - Oliver Stone &  Peter Kuznick
 
-Jérôme Cazes : 
-
+#### Jérôme Cazes : 
 - Pour une école publique émancipatrice - Véronique Decker
 - Au cœur des ténèbres - Joseph Conrad
 
-
 ### GIEC : Le climat survivra-t-il au capitalisme ? Jouzel & Larrouturou
-
 > 27 septembre 2019
 > [youtube](https://youtu.be/tUml_4KZKhk)
 
-Jean Jouzel :
-
+#### Jean Jouzel :
 - Pour éviter le chaos climatique et financier - Jean Jouzel & Pierre Larrouturou
 
- Pierre Larrouturou : 
+#### Pierre Larrouturou : 
+- Perdre la Terre - Nathaniel Rich
 
- - Perdre la Terre - Nathaniel Rich
-
- Livre des invités : 
-
- - Finance, Climat, Réveillez-vous ! - Anne Hessel & Jean Jouzel & Pierre Larrouturou
+#### Livre des invités : 
+- Finance, Climat, Réveillez-vous ! - Anne Hessel & Jean Jouzel & Pierre Larrouturou
 
 ### Un prix Nobel face au krach à venir ? Joseph Stiglitz
-
 > 25 septembre 2019
 > [youtube](https://youtu.be/-J_2tNIA4cI)
 
@@ -2346,7 +2306,6 @@ Dernier livre de l'invité :
 - People, Power, and Profits: Progressive Capitalism for an Age of Discontent - Joseph E. Stiglitz
 
 ### DGSE : Face à la réalité ? Talk with a spy
-
 > 20 septembre 2019
 > [youtube](https://youtu.be/_GONFUveBH0)
 
@@ -2359,7 +2318,6 @@ Livre de l'invité :
 - Profession espion - Olivier Mas (Beryl 614)
 
 ### Guerre économique sans pitié pour la France ? Olivier Marleix
-
 > 17 septembre 2019
 > [youtube](https://youtu.be/2mor2qort4U)
 
@@ -2368,7 +2326,6 @@ Livre de l'invité :
 - La Chartreuse de Parme - Stendhal
 
 ### La France en danger: où en est le renseignement ? Eric Dénécé
-
 > 11 septembre 2019
 > [youtube](https://youtu.be/mx5QlspmmE8)
 
@@ -2377,7 +2334,6 @@ Livre de l'invité :
 - Ode à l'homme qui fut la France - Romain Gary
 
 ### Football : du pain, des jeux et des magouilles ? Vikash Dhorasoo
-
 > 5 septembre 2019
 > [youtube](https://youtu.be/_EFDjsMDlXU)
 
@@ -2387,7 +2343,6 @@ Livre de l'invité :
 - L'oeuvre de Danniel Pennac
 
 ### DGSE : l'impuissance de l'état ? Maxime Renahy
-
 > 3 septembre 2019
 > [youtube](https://youtu.be/Uj83ZmfT4Dw)
 
@@ -2395,18 +2350,15 @@ Livre de l'invité :
 - Un sac de billes - Joseph Joffo
 - L'oeuvre de Monique Pinçon-Charlot
 
-Livre de l'invité :
-
+#### Livre de l'invité :
 - Là où est l'argent - Maxime Renahy
 
 ### USA : Nos anciens alliés ? Arnaud Montebourg
-
 > 25 juillet 2019
 
 Pas de recommandation lecture.
 
 ### Alstom : la France vendue à la découpe ? Frédéric Pierucci
-
 > 8 juillet 2019
 > [youtube](https://www.youtube.com/watch?v=dejeVuL9-7c)
 
@@ -2414,12 +2366,10 @@ Pas de recommandation lecture.
 - La Stratégie du choc : la montée d'un capitalisme du désastre - Naomi Klein
 - Vol MH370 : Une vie détournée - Ghislain Wattrelos
 
-Livre de l'invité :
-
+#### Livre de l'invité :
 - Le piège américain - Frédéric Pierucci et Matthieu Aron
 
 ### Arabie Saoudite, un pays protégé ? Pierre Conesa
-
 > 2 juillet 2019
 > [youtube](https://www.youtube.com/watch?v=5TbbV06LlP0)
 
@@ -2427,46 +2377,39 @@ Livre de l'invité :
 - Une histoire du wahhabisme : Comment l'islam sectaire est devenu l'islam - Hamadi Redissi
 
 ### Ecologie, Transport et Mythomanie : Laurent Castaignède
-
 > 2 juillet 2019
 > [youtube](https://www.youtube.com/watch?v=5gOsjIxR7T0)
 
 Pas de recommandation lecture.
 
-Livres cités lors de l'interview :
-
+#### Livres cités lors de l'interview :
 - Airvore ou la face obscure des transports - Laurent Castaignède
 - Chronique d'une mort annoncée -  Gabriel García Márquez
 - Le Vingtième Siècle - Albert Robida
 - Le Meilleur des mondes - Aldous Huxley
 
 ### Débat : L'avenir de l'humanité ? Laurent Alexandre et Philippe Bihouix
-
 > 25 juin 2019
 > [youtube](https://www.youtube.com/watch?v=9iuBVin9oOk&t=4262s) - [peertube](https://thinkerview.video/videos/watch/4cadaa9d-10cd-468e-8d41-afeceb946273)
 
-Philippe Bihouix :
-
+#### Philippe Bihouix :
 - Éloge du carburateur - Matthew Crawford
 - Technique et civilisation - Lewis Mumford
 - Une question de taille - Olivier Rey
 
-Laurent Alexandre :
-
+#### Laurent Alexandre :
 - The Case Against Education: Why the Education System Is a Waste of Time and Money - Bryan Caplan
 - The Neuroscience of Intelligence - Richard J. Haier
 - AI Superpowers: China, Silicon Valley, and the New World Order - Kai-Fu Lee 
 - Blueprint - Robert Plomin
 
 ### Laherrère, Meilhan: Croissance, énergie, le point de non-retour ?
-
 > 19 juin 2019
 > [youtube](https://www.youtube.com/watch?v=zyt81qmTz6g) - [peertube](https://thinkerview.video/videos/watch/01457f59-fb08-403b-8954-6226aee67f78)
 
 Pas de recommandation lecture.
 
 ### Jean Ziegler : Pourquoi il faut détruire le capitalisme ?
-
 > 14 juin 2019
 > [youtube](https://www.youtube.com/watch?v=sIJd1kuR2Ps) - [peertube](https://thinkerview.video/videos/watch/107cd859-ba9d-498c-81f9-b1d84df32081)
 
@@ -2481,14 +2424,12 @@ Autres livres cités au cours de l'interview :
 - Le nom de Dieu est Miséricorde - Pape François
 
 ### Alain Grandjean : la finance va-t-elle sauver la planète ?
-
 > 12 juin 2019
 > [youtube](https://www.youtube.com/watch?v=zoT3XBmsZc8) - [peertube](https://thinkerview.video/videos/watch/de2b477a-8bad-46c4-a6ae-e6bff4d07085)
 
 Pas de recommandation lecture.
 
 ### Monique Pinçon-Charlot : Casse sociale, le début ?
-
 > 4 juin 2019
 
 - Sarkozy-Kadhafi. Des billets et des bombes -  Fabrice Arfi, Benoît Collombat, Thierry Chavant, Geoffrey Le Guilcher, Elodie Gueguen, Michel Despratx
@@ -2496,20 +2437,18 @@ Pas de recommandation lecture.
 - La caste: Enquête sur cette haute fonction publique qui a pris le pouvoir - Laurent Mauduit
 - Article 353 du Code pénal - Tanguy Viel
 
-Autres livres cités au cours de l'interview :
-
+#### Autres livres cités au cours de l'interview :
 - Les nouveaux chiens de garde -- Serge Halimi
 - Le grand bond en arrière - Serge Halimi
 - Crépuscule - Juan Branco
 - La violence des riches : Chronique d'une immense casse sociale - Michel Pinçon et Monique Pinçon-Charlot
 
 ### Edwy Plenel - Mediapart : Benalla, Macron, le journalisme menacé ?
-
 > 24 mai 2019
 
 Pas de recommandations.
 
-Livres cités : 
+#### Livres cités : 
 - La victoire des vaincus : A propos des gilets jaunes - Edwy Plenel
 - Les nouveaux chiens de garde -  Serge Halimi
 - Le Portrait de Dorian Gray - Oscar Wilde
@@ -2517,39 +2456,34 @@ Livres cités :
 - Crépuscule - Juan Branco
 
 ### Barbara Stiegler : S'adapter à une société malade ?
-
 > 17 mai 2019
 
 - Naissance de la biopolitique : cours au Collège de France  -  Michel Foucault : [Playlist YouTube du cours](https://www.youtube.com/playlist?list=PLw4-Fp0S2dJakQHXcXxTSjISLCAuT0Qiv)
 
-Livres cités lors de l'interview :
-
+#### Livres cités lors de l'interview :
 - Il faut s'adapter : Sur un nouvel impératif politique - Barbara Stiegler
 - The Good Society - Walter Lippmann
 - La nouvelle raison du monde: essai sur la société néolibérale - Christian Laval et Pierre Dardot
 - De l'éducation - Jiddu Krishnamurti (Par Thinkerview)
 
 ### Philippe Bihouix : Prophète de l’apocalypse ?
-
 > 14 mai 2019
 
 Pas de recommandations.
 
-Livres cités  lors de l'interview :
+#### Livres cités  lors de l'interview :
 - Le bonheur était pour demain : Rêveries d'un ingénieur solitaire - Philippe Bihouix
 - La Nouvelle Atlantide - Francis Bacon
 - Leurre et malheur du transhumanisme - Olivier Rey
 - L'Oeuvre - Lewis Mumford
 
 ### Union Européenne pour ou contre ? Coralie Delaume
-
 > 10 mai 2019
 
 - L'Archipel français - Jérôme Fourquet
 - Où en sommes-nous ? Une esquisse de l'histoire humaine - Emmanuel Todd
 
 ### Jean-Luc Mélenchon : face à la réalité ?
-
 > 06 mai 2019
 
 - Socialisme utopique et socialisme scientifique - Friedrich Engels
@@ -2570,32 +2504,30 @@ Livres cités  lors de l'interview :
     - La Horde du Contrevent - Alain Damasio
 
 ### Bernard Stiegler : Etat d'urgence, géopolitique, Médias, Gilets Jaunes
-
 > 17 avril 2019
 
 - L'oeuvre de Friedrich Nietzsche
 - Qu'appelle-t-on Panser ? - Bernard Stiegler
 
 ### Champagne, Duplessy et Fontaine : Investigation sans filtre ?
-
 > 12 avril 2019
 
-- Jacques Duplessy
+#### Jacques Duplessy
     - Le lambeau - Philippe Lançon
-- Stéphanie Fontaine
+
+#### Stéphanie Fontaine
     - Les Nouveaux Chiens de garde - Serge Halimi (et non de Ruffin)
-- Antoine Champagne
+
+#### Antoine Champagne
     - Le littératron - Robert Escarpit
 
 ### Charles Rojzman : Vers les Guerres civiles ?
-
 > 12 avril 2019
 
 Il ne fait pas de recommandations mais mentionne à la fin :
 - L'armée nouvelle - Jean Jaurès
 
 ### Alain Damasio : l'intuition de la science-fiction ?
-
 > 11 avril 2019
 
 - Les furtifs - Alain Damasio
@@ -2603,7 +2535,6 @@ Il ne fait pas de recommandations mais mentionne à la fin :
 - Chroniques martiennes - Ray Bradbury
 
 ### Géopolitique : Cynisme et bons sentiments ? Caroline Galacteros
-
 > 27 mars 2019
 
 - Comptes à rebours - Hubert Vedrine
@@ -2612,7 +2543,6 @@ Il ne fait pas de recommandations mais mentionne à la fin :
 - Civilisation: Comment nous sommes devenus américains - Régis Debray
 
 ### Gaël Giraud : Tsunami financier, désastre humanitaire ?
-
 > 20 mars 2019
 
 - Ecologie intégrale: Le manifeste - Delphine Batho
@@ -2620,7 +2550,6 @@ Il ne fait pas de recommandations mais mentionne à la fin :
 - L'encyclique Laudato si - Pape François
 
 ### Noam Anouar : Lucidité face aux terrorismes ?
-
 > 20 mars 2019
 
 - Cosmos - Michel Onfray
@@ -2628,7 +2557,6 @@ Il ne fait pas de recommandations mais mentionne à la fin :
 - Meursault, contre-enquête - Kamel Daoud
 
 ### L'illusion de la démocratie en France ? Juan Branco
-
 > 13 mars 2019
 
 Pas de recommandation.
@@ -2636,13 +2564,11 @@ L'invité est auteur de :
 - Crépuscule
 
 ### Société à bout de souffle ? Aymeric Caron
-
 > 13 mars 2019
 
 Pas de recommandation.
 
 ### Gilets Jaunes : Avant la révolution ? François Boulo
-
 > 25 février 2019
 
 - 1984 - George Orwell
@@ -2650,7 +2576,6 @@ Pas de recommandation.
 - Economix : La première histoire de l'économie en BD - Michael Goodwin
 
 ### Démocratie : Marketing politique pour les pauvres? Francis Dupuis-Déri
-
 > 25 février 2019
 
 - Comment la non-violence protège l'Etat: Essai sur l'inefficacité des mouvements sociaux - Peter Gelderloos
@@ -2658,7 +2583,6 @@ Pas de recommandation.
 - Peau rouge, masques blancs - Glen Sean Coulthard
 
 ### François Bégaudeau : Gilets Jaunes, Populisme, Bourgeois ?
-
 > 18 février 2019
 
 - À nos amis - Le comité invisible
@@ -2668,29 +2592,26 @@ Pas de recommandation.
 - Attente de Dieu - Simone Veil
 
 ### Jean-Marc Jancovici et Philippe Bihouix : Croissance et Effondrement
-
 > 12 février 2019
 
-- Philippe Bihouix
-    - Le bonheur était pour demain. Les rêveries d’un ingénieur solitaire - Philippe Bihouix
-    - Le Mythe de la machine - Lewis Mumford
-    - Techniques et Civilisation - Lewis Mumford
-    - Le Nouvel État industriel - John Kenneth Galbraith
-- Jean-Marc Jancovici
-    - De la Démocratie en Amérique - Alexis de Tocqueville
-    - Le changement climatique expliqué à ma fille - Jean-Marc Jancovici
-    - Les Limites à la croissance (dans un monde fini) - Donella Meadows, Dennis Meadows, Jørgen Randers et William W. Behrens III
+#### Philippe Bihouix
+- Le bonheur était pour demain. Les rêveries d’un ingénieur solitaire - Philippe Bihouix
+- Le Mythe de la machine - Lewis Mumford
+- Techniques et Civilisation - Lewis Mumford
+- Le Nouvel État industriel - John Kenneth Galbraith
+
+#### Jean-Marc Jancovici
+- De la Démocratie en Amérique - Alexis de Tocqueville
+- Le changement climatique expliqué à ma fille - Jean-Marc Jancovici
+- Les Limites à la croissance (dans un monde fini) - Donella Meadows, Dennis Meadows, Jørgen Randers et William W. Behrens III
 
 ### Khalid Essa: Taxi un métier en danger ?
-
 > 18 février 2019
 
-proposition de film plutôt que livre :
-
-- Lord of War réalisé - Andrew Niccol
+Proposition de film plutôt que livre :
+- Lord of War - Andrew Niccol
 
 ### Yánis Varoufákis, la fin de l'Europe et de l'Euro ?
-
 > 18 février 2019
 
 - Les pièces de Sophocle notamment celles sur Oedipe et Antigone
@@ -2698,21 +2619,17 @@ proposition de film plutôt que livre :
 - Crime et Châtiment - Fiodor Dostoïevski
 
 ### Natacha Polony : Journalisme et #LigueduLOL
-
 > 12 février 2019
 
 Pas de recommandation.
 
 ### Afrique : Gilets Jaunes depuis 150 ans ? Aminata Dramane Traoré 
-
 > 22 janvier 2019
->
-> liens  [Youtube](https://www.youtube.com/watch?v=h4M8kBp23Fs), [Peertube](https://thinkerview.video/videos/watch/14e92366-b89d-4673-9856-1d16e5c778b3)
+> [Youtube](https://www.youtube.com/watch?v=h4M8kBp23Fs), [Peertube](https://thinkerview.video/videos/watch/14e92366-b89d-4673-9856-1d16e5c778b3)
 
 Pas de recommandation.
 
 ### Gilets Jaunes : Comprendre la violence ? Vincent Cespedes
-
 > 22 janvier 2019
 
 - Aurore - Friedrich Nietzsche
@@ -2720,30 +2637,28 @@ Pas de recommandation.
 - Vandana Shiva, Nelson Mandela
 
 ### Les milliardaires gavés au sang des gilets jaunes ? Denis Robert
-
 > 17 janvier 2019
 
 - Les Prédateurs: Des milliardaires contre les États - Denis Robert et Catherine Le Gall
 
 ### Gilets Jaunes : le début de la fin pour l'UE ?
-
 > 16 janvier 2019
 
-- Jacques Sapir
-    - Pas de recommandation.
-- Olivier Berruyer
-    - Pas de recommandation.
-- Olivier Delamarche
-    - Pas de recommandation.
+#### Jacques Sapir
+- Pas de recommandation.
+
+#### Olivier Berruyer
+Pas de recommandation.
+
+#### Olivier Delamarche
+Pas de recommandation.
 
 ### Violences policières et Gilets Jaunes
-
 > 22 janvier 2019
 
 Pas de recommandation.
 
 ### Futur de l'ordre mondial, la menace russe ? Alekseï Pouchkov
-
 > 18 décembre 2018
 
 - Soumission -- Michel Houellebecq
@@ -2751,7 +2666,6 @@ Pas de recommandation.
 - Les diamants de Nika -- Nina Pouchkova
 
 ### Corruption : Maladie de la France ? Anticor sans filtre Jean-Christophe Picard
-
 > 10 décembre 2018
 
 - Pierre Mendès France: Pour une République moderne -- Alain Chatriot
@@ -2759,7 +2673,6 @@ Pas de recommandation.
 - L'esprit de corruption -- Irène Luc et Éric Alt
 
 ### Une Justice sous Macron ? Carbon de Seze
-
 > 30 novembre 2018
 
 - Toute l'Oeuvre d'Élisée Reclus
@@ -2768,7 +2681,6 @@ Pas de recommandation.
 - Manon Lescaut -- Antoine François Prévost
 
 ### Jérémy Ferrari : la révolte par l'humour ?
-
 > 27 novembre 2018
 
 - Happy hour à Mossoul -- Jérémy Ferrari
@@ -2776,13 +2688,11 @@ Pas de recommandation.
 - Plus fort la vie -- Philippe Croizon
 
 ### Armée française : Quelle stratégie ? Général Vincent Desportes
-
 > 22 novembre 2018
 
 - La dernière bataille de France - Vincent Desportes
 
 ### Kémi Séba : Panafricanisme 2.0 ? 
-
 > 21 novembre 2018
 
 - Nations nègres et culture -- Cheikh Anta Diop
@@ -2794,13 +2704,11 @@ Pas de recommandation.
 - L'Oeuvre de Kémi Séba
 
 ### Migrants-Réfugiés-mmigration : problèmes inextricables ?
-
 > 13 novembre 2018
 
 Pas de recommandation.
 
 ### Autopsie du Journalisme, de Hitler à Trump : Daniel Schneidermann
-
 > 12 novembre 2018
 
 - Mémoires de guerres - Winston Churchill
@@ -2808,7 +2716,6 @@ Pas de recommandation.
 - Le Roman inachevé - Louis Aragon
 
 ### Éric Sadin : l'asservissement par l'Intelligence Artificielle ?
-
 > 08 novembre 2018
 
 - L’Intelligence artificielle ou l’enjeu du siècle : Anatomie d’un antihumanisme radical -- Eric Sadin
@@ -2817,7 +2724,6 @@ Pas de recommandation.
 - La Technique ou l'Enjeu du siècle -- Jacques Ellul
 
 ### Emmanuel Todd : Trahison des élites françaises ?
-
 > 07 novembre 2018
 
 - Arsène Lupin -- Maurice Leblanc
@@ -2825,7 +2731,6 @@ Pas de recommandation.
 - Anna Karénine -- Léon Tolstoï
 
 ### La France interdite ? Laurent Obertone
-
 > 06 novembre 2018
 
 Seul des auteurs sont cités :
@@ -2838,13 +2743,11 @@ Seul des auteurs sont cités :
 - Charles Murray
 
 ### Terrorisme ou Légitime défense ? Thibault de Montbrial
-
 > 06 novembre 2018
 
 Pas de recommandation.
 
 ### Jérémie Zimmermann : 1984, un manuel d'instructions ? 
-
 > 18 octobre 2018
 
 - À nos amis -- Le comité invisible
@@ -2852,13 +2755,11 @@ Pas de recommandation.
 - L'information et la communication. Théorie générale -- Robert Escarpit
 
 ### P. Servigne & J. Blamont : Introduction au siècle des menaces 
-
 > 18 octobre 2018
 
 - Une autre fin du monde est possible -- Pablo Servigne et Raphaël Stevens
 
 ### Tancrède Ramonet : Anarchie VS Capitalisme ?
-
 > 2 octobre 2018
 
 - Bullshit jobs -- David Graeber
@@ -2875,7 +2776,6 @@ Pas de recommandation.
 Pas de recommandation.
 
 ### Isabelle Attard : Ex-députée écolo : sans langue de bois ?
-
 > 21 septembre 2018
 
 - L'Oeuvre de Murray Bookchin
@@ -2883,25 +2783,21 @@ Pas de recommandation.
 - Résilience -- Augustin Lebon
 - L'essai -- Nicolas Debon
 
-Documentaires : 
-
+#### Documentaires : 
 - Howard Zinn, Une histoire populaire américiane -- Olivier Azam et Daniel Mermet
 - Ni Dieu, ni maîre -- Tancrède Ramonet
 
 ### Edgar Morin : L’effondrement ?
-
 > 19 septembre 2018
 
 Pas de recommandation lecture faite.
 
 ###   Yannick Rousselet, Greenpeace : Menaces Nucléaire ?
-
 > 19 septembre 2018
 
 - Les romans policiers de Fred Vargas
 
 ### Etienne Chouard
-
 > 4 août 2017
 > [youtube](https://www.youtube.com/watch?v=DROqR_7EKvs&t=6964s)
 
@@ -2913,3 +2809,51 @@ Pas de recommandation lecture faite.
 - Principes élémentaires de propagande de guerre: Utilisables en cas de guerre froide, chaude ou tiède... - Anne Morelli 
 - Camp planétaire : un danger bien réel - Denis Dupré
 - Henri Guillemin et la Commune - le Moment du Peuple ? - Edouard Mangin
+
+### Du Sextoy au "Dark Web" : Rayna Stamboliyska
+> 1er août 2017
+> [youtube](https://www.youtube.com/watch?v=zyB1eQFskf4)
+
+Pas de recommandation
+
+### Énergie nucléaire ? José Pluki
+> 1er août 2017
+> [youtube](https://www.youtube.com/watch?v=TeOlL_hVF6g)
+
+Pas de recommandation
+
+### Benjamin Bayart, Grand Sorcier de l'Internet option vie privée
+> 20 juin 2017
+> [youtube](https://www.youtube.com/watch?v=VBsLSfPs2PE)
+
+Pas de recommandation
+
+### Guillaume Ancel, Lieutenant Colonel / Force d'action rapide
+> 20 juin 2017
+> [youtube](https://www.youtube.com/watch?v=sIaLxUiR9BQ)
+
+Pas de recommandation
+
+### Stéphanie Gibaud, Lanceuse d'Alerte SwissLeaks
+> 20 juin 2017
+> [youtube](https://www.youtube.com/watch?v=SH69-qP_saE)
+
+Pas de recommandation
+
+### Juan Branco, avocat de Wikileaks
+> 20 juin 2017
+> [youtube](https://www.youtube.com/watch?v=uBaAvHxdShw)
+
+Pas de recommandation
+
+### Lilian Thuram : football, racisme et géopolitique
+> 1er juin 2017
+> [youtube](https://www.youtube.com/watch?v=0BV-6_kXYSg)
+
+Pas de recommandation
+
+### Guillaume Meurice nous répond
+> 19 mai 2017
+> [youtube](https://www.youtube.com/watch?v=CQ-nzRlDnns)
+
+Pas de recommandation
