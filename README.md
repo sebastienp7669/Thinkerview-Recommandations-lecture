@@ -6,6 +6,20 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Réindustrialisation : Y a-t-il un pilote dans l’avion ? Yves Bréchet & Louis Gallois
+> 22 octobre 2025
+> [youtube](https://www.youtube.com/watch?v=neE5TEMXcv0)
+
+#### Yves Bréchet
+- L'aventure de l'Encyclopédie (1775-1800) - Robert Darnton
+- Cours familier de philosophie politique - Pierre Manent
+- Chroniques des choses grandes et magnifiques - Alexandre Vialatte 
+
+#### Louis Gallois
+- La maison vide - Laurent Mauvignier
+- L'humeur révolutionnaire: Paris, 1748-1789 - Robert Darnton
+- Vie et destin - Vassili Grossman
+
 ### Otage des djihadistes, face à la mort pendant 2 ans. Olivier Dubois
 > 14 octobre 2025
 > [youtube](https://www.youtube.com/watch?v=6NAyskMTw3Y)
