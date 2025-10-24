@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Dislocation de l’Union européenne ? François-Xavier Bellamy
+> 23 octobre 2025
+> [youtube](https://www.youtube.com/watch?v=Itc4VqlP1PY)
+
+- Giovanni Falcone - Roberto Saviano
+- Le Déclin du courage. Discours de Harvard (1978) - Alexandre Soljenitsyne
+- Le savant et le politique (*Wissenschaft als Beruf* & *Politik als beruf*) - Max Weber
+
 ### Réindustrialisation : Y a-t-il un pilote dans l’avion ? Yves Bréchet & Louis Gallois
 > 22 octobre 2025
 > [youtube](https://www.youtube.com/watch?v=neE5TEMXcv0)
