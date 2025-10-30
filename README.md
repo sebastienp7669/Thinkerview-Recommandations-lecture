@@ -68,7 +68,8 @@ Prisonnier du désert - 711 jours aux mains d'Al-Qaïda
 - Le rêve d'un homme ridicule - Fédor Dostoïevski
 
 #### Fabrice Epelboin
-- L'homme révolté - Albert Camus
+- Propaganda - Edward Bernays
+- - L'homme révolté - Albert Camus
 
 #### Brice Augras-ZaX
 - [Travaux de James Kettle sur HTTP 1.1](https://http1mustdie.com/) - James Kettle
