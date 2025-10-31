@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Vous n'êtes que des pions pour eux ? Javier Blas
+> 30 octobre 2025
+> [youtube](https://www.youtube.com/watch?v=KbbDd8GAOBU)
+
+- The Prize: The Epic Quest for Oil, Money & Power - Daniel Yergin
+- Merchants of grains - Dan Morgan
+- Biographie de Daniel Allemann
+
 ### Dislocation de l’Union européenne ? François-Xavier Bellamy
 > 23 octobre 2025
 > [youtube](https://www.youtube.com/watch?v=Itc4VqlP1PY)
