@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Natacha Polony sans filtre
+> 13 novembre 2025
+> [youtube](https://www.youtube.com/watch?v=RYAL1TSFq2U)
+
+- L'empire souterrain - Henry Farrell
+- Le Capitalisme de l'apocalypse ou le rêve d'un monde sans démocratie - Quinn Slobodian
+- La Guerre du Péloponnèse - Thucydide
+
 ### Vous n'êtes que des pions pour eux ? Javier Blas
 > 30 octobre 2025
 > [youtube](https://www.youtube.com/watch?v=KbbDd8GAOBU)
