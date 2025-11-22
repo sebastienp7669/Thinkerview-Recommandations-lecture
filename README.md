@@ -6,6 +6,8 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### TEST 20251122
+
 ### Natacha Polony sans filtre
 > 13 novembre 2025
 > [youtube](https://www.youtube.com/watch?v=RYAL1TSFq2U)
