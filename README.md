@@ -35,6 +35,7 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 > [youtube](https://www.youtube.com/watch?v=neE5TEMXcv0)
 
 #### Yves Bréchet
+- Du pouvoir - Bertrand de Jouvenel
 - L'aventure de l'Encyclopédie (1775-1800) - Robert Darnton
 - Cours familier de philosophie politique - Pierre Manent
 - Chroniques des choses grandes et magnifiques - Alexandre Vialatte 
