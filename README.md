@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### France : Le scénario du pire plus proche que jamais ? Thibault de Montbrial
+> 8 décembre 2025
+> [youtube](https://www.youtube.com/watch?v=kqKxOiZUwXU)
+
+- Le bataillon du ciel - Joseph Kessel
+- La pitié dangereuse - Stefan Zweig
+- L'étrange défaite - Marc Bloch
+
 ### Notre alimentation menacée, nos agriculteurs en péril ? Pierre-Guillaume Mercadal
 > 27 novembre 2025
 > [youtube](https://www.youtube.com/watch?v=eNHtKmtlLDM)
