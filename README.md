@@ -6,6 +6,18 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Guerre, comprendre et anticiper ? Alexandre del Valle
+> 12 décembre 2025
+> [youtube](https://www.youtube.com/watch?v=v-67JVP42bI)
+
+#### Livre de l'invité
+- Le nouvel ordre post-occidental - Alexandre Del Valle
+
+### Recommandations
+- La crise de la conscience européenne, 1680-1715 - Paul Hazard
+- Djihad versus McWorld - Benjamin R. Barber
+- Le grand échiquier: L'Amérique et le reste du monde - Zbigniew Brzezinski 
+
 ### France : Le scénario du pire plus proche que jamais ? Thibault de Montbrial
 > 8 décembre 2025
 > [youtube](https://www.youtube.com/watch?v=kqKxOiZUwXU)
