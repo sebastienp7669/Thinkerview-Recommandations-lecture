@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+###  Ancien Patron de la DGSE sans filtres ? Alain Juillet
+> 19 décembre 2025
+> [youtube](https://www.youtube.com/watch?v=C7u6NebjkcY)
+
+- Le petit Prince - Antoine de Saint Exupéry
+- L'Italien - Arturo Pérez-Reverte
+- Nos chers Alliés - Gilbert Gallerne
+
 ### Guerre, comprendre et anticiper ? Alexandre del Valle
 > 12 décembre 2025
 > [youtube](https://www.youtube.com/watch?v=v-67JVP42bI)
