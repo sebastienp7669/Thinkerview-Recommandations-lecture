@@ -6,7 +6,19 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
-###  Ancien Patron de la DGSE sans filtres ? Alain Juillet
+### Juan Branco : Légitime Colère ?
+> 8 janvier 2026
+> [youtube](https://www.youtube.com/watch?v=V34Y_fONxjI)
+
+Films recommandés :
+- L'Évangile selon saint Matthieu - Pier Paolo Pasolini
+- Apocalypse now - Francis Ford Coppola
+- La ligne rouge - Terrence Malick
+
+Livre recommandé:
+- Voyage au bout de la nuit - Louis-Ferdinand Céline
+
+### Ancien Patron de la DGSE sans filtres ? Alain Juillet
 > 19 décembre 2025
 > [youtube](https://www.youtube.com/watch?v=C7u6NebjkcY)
 
