@@ -6,6 +6,25 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Atteinte aux intérêts vitaux de la nation ? Vincent Louault, Fabien Bouglé et N. Meilhan
+> 12 janvier 2026
+> [youtube](https://www.youtube.com/watch?v=GzAA9i8DkjM)
+
+#### Vincent Louault
+- Petit traité des grandes vertus - André Comte-Sponville
+- Cinq milliards en fumée: Les dessous du scandale de la Société générale - Pierre-Antoine Delhommais
+- Le voyage d'Hector: ou la recherche du bonheur - François Lelord
+
+#### Fabien Bouglé
+- Ravage - René Barjavel
+- Les illusionnistes - Climat, agriculture, nucléaire, OGM : l'enquête inédite sur les dérives de l'écologie politique - Géraldine Woessner & Erwan Seznec
+- L'étrange débâcle - Comment la France a perdu sa souveraineté énergétique - Henri Proglio
+
+#### Nicolas Meilhan:
+- L'âge des low-tech: vers une civilisation techniquement soutenable - Philippe Bihouix
+- 1997 Année zéro du déclin de la France - Loïk Le Floch-Prigent
+- Dissolution française, la fin du macronisme - Olivier Marleix
+
 ### Juan Branco : Légitime Colère ?
 > 8 janvier 2026
 > [youtube](https://www.youtube.com/watch?v=V34Y_fONxjI)
