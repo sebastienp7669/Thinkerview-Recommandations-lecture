@@ -10,7 +10,9 @@ Liste des recommandations lecture/films des invités de ThinkerView (3 livres po
 > 15 janvier 2026
 > [youtube](https://www.youtube.com/watch?v=w8vV6GsVe6s)
 
-- 
+- Narcisse et Goldmund - Herman Hesse
+- La Confession d'un enfant du siècle - Alfred de Musset
+- Les Confessions - Saint Augustin
 
 ### Atteinte aux intérêts vitaux de la nation ? Vincent Louault, Fabien Bouglé et Nicolas Meilhan
 > 12 janvier 2026
