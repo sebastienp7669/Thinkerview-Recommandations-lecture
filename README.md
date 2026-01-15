@@ -6,6 +6,12 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Où va la France ? Jean Messiha
+> 15 janvier 2026
+> [youtube](https://www.youtube.com/watch?v=w8vV6GsVe6s)
+
+- 
+
 ### Atteinte aux intérêts vitaux de la nation ? Vincent Louault, Fabien Bouglé et Nicolas Meilhan
 > 12 janvier 2026
 > [youtube](https://www.youtube.com/watch?v=GzAA9i8DkjM)
