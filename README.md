@@ -6,6 +6,16 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Relever la tête et sauver le pays ? Jon de Lorraine
+> 29 janvier 2026
+> [youtube](https://www.youtube.com/watch?v=BGVJW7lMey0)
+
+- La Bible d'Arangon
+- Mémoires de guerre - Charles de Gaulle
+
+#### Films
+- Les affranchis - Martin Scorsese
+
 ### Où va la France ? Jean Messiha
 > 15 janvier 2026
 > [youtube](https://www.youtube.com/watch?v=w8vV6GsVe6s)
