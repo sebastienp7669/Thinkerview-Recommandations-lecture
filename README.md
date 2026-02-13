@@ -6,6 +6,20 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Sous surveillance émotionnelle : La Machine voit tout ? Sébastien Crozier
+> 12 février 2026
+> [youtube](https://www.youtube.com/watch?v=jN7FOk2lt2w)
+
+- L'art de la guerre - Sun Tzu
+- Le Prince - Nicolas Machiavel
+- De la guerre - Carl von Clausewitz
+- La société du spectacle - Guy Debord
+- La ferme des animaux - George Orwell
+- 1984 - George Orwell
+- Le meilleur des mondes - Aldous Huxley
+- Blade runner - Philip K. Dick
+- Minority report - Philip K. Dick
+
 ### Guerre cognitive, castes, mensonges, effondrement. Frédéric Bascuñana et Alexis Poulin
 > 5 février 2026
 > [youtube](https://www.youtube.com/watch?v=-Iu7_FUuU6I)
