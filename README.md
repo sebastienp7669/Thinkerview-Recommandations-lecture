@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Le Patron des Patrons : Le MEDEF sans filtre ? Patrick Martin
+> 17 février 2026
+> [youtube](https://www.youtube.com/watch?v=zjWxDU0o43U)
+
+- 1793 - Victor Hugo
+- Bocuse - Gautier Battistella
+- Le roi Arthur - Dominique Bona
+
 ### Sous surveillance émotionnelle : La Machine voit tout ? Sébastien Crozier
 > 12 février 2026
 > [youtube](https://www.youtube.com/watch?v=jN7FOk2lt2w)
