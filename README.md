@@ -6,6 +6,17 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### L'Europe a peur, elle bâillonne ? Bluetouff et Nicolas Conquer
+> 26 février 2026
+> [youtube](https://www.youtube.com/watch?v=zdcr-svz0u4)
+
+#### Bluetouff
+- Traité théologico-politique - Baruch Spinoza
+- Cyberpunk - Le nouveau système totalitaire - Asma Mhalla
+
+#### Nicolas Conquer
+- Etienne-Alexandre Beauregard - Anti-civilisation
+
 ### Le Patron des Patrons : Le MEDEF sans filtre ? Patrick Martin
 > 17 février 2026
 > [youtube](https://www.youtube.com/watch?v=zjWxDU0o43U)
