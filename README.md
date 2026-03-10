@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### EXCLUSIF : IRAN face à l'escalade militaire majeure, le sort du Monde ?
+> 6 mars 2026
+> [youtube](https://www.youtube.com/watch?v=A1P2v_Q_C7Y)
+
+- Poèmes de Hafez: Le Divân de Hafez
+- Poèmes de Molavi
+- Le Shâh Nâmeh de Ferdowsi
+
 ### Paris peut-elle encore être sauvée ? Sarah Knafo sans filtre
 > 2 mars 2026
 > [youtube](https://www.youtube.com/watch?v=UrTlfksV5mI)
