@@ -6,6 +6,19 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Crise pétrolière, effondrement, émeutes de la faim ? Jean-Marc Jancovici
+> 16 mars 2026
+> [youtube](https://www.youtube.com/watch?v=JmByobw2YWA)
+
+#### Film
+- "Don't look up" de Adam McKay
+
+#### Livre
+- De l'inégalité parmi les sociétés - Jared Diamond
+
+#### Podcast
+- "The great simplification" - Nate Hagens
+
 ### EXCLUSIF : IRAN face à l'escalade militaire majeure, le sort du Monde ?
 > 6 mars 2026
 > [youtube](https://www.youtube.com/watch?v=A1P2v_Q_C7Y)
