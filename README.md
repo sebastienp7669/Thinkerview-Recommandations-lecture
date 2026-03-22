@@ -6,6 +6,16 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Effondrement de l’empire américain ? Abby Martin
+> 21 mars 2026
+> [youtube](https://www.youtube.com/watch?v=RuVHZ4rh4tU)
+
+- Confessions of an economic hitman - John Perkins
+- Open Veins of Latin America - Eduardo Galeano
+- Blowback: The Costs and Consequences of American Empire - Chalmers Johnson
+- The End of Ice: Bearing Witness and Finding Meaning in the Path of Climate Disruption - Dahr Jamail
+- The green zone - Barry Sanders
+
 ### Crise pétrolière, effondrement, émeutes de la faim ? Jean-Marc Jancovici
 > 16 mars 2026
 > [youtube](https://www.youtube.com/watch?v=JmByobw2YWA)
