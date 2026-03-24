@@ -6,6 +6,23 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### La Guerre des Prix ? Le vrai coût de l’alimentation ? Olivier Mevel et Anthony Déchaux
+> 23 mars 2026
+> [youtube](https://www.youtube.com/watch?v=ljbhf_uuZp4)
+
+#### Olivier Mevel
+- Au bonheur des dames - Emile Zola
+- L'Etranger - Albert Camus
+- Le Rouge et le Noir - Stendhal
+
+#### Anthony Déchaux
+**Livres :**
+- Martin Eden - Jack London
+- Les Coulisses de la grande distribution - Christian Jacquiau
+
+**Film :**
+- Playtime - Jacques Tati
+
 ### Effondrement de l’empire américain ? Abby Martin
 > 21 mars 2026
 > [youtube](https://www.youtube.com/watch?v=RuVHZ4rh4tU)
