@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Stress test : Agnès Pannier-Runacher
+> 25 mars 2026
+> [youtube](https://www.youtube.com/watch?v=eEhCw-GRYHE)
+
+- Les hauts-parleurs - Alain Damasio (dans le recueil 'Aucun souvenir assez solide')
+- Le Peuple contre la démocratie - Yascha Mounk
+- Les voies nouvelles du géomimétisme: Soigner le climat grâce au vivant - Pierre Gilbert 
+
 ### La Guerre des Prix ? Le vrai coût de l’alimentation ? Olivier Mevel et Anthony Déchaux
 > 23 mars 2026
 > [youtube](https://www.youtube.com/watch?v=ljbhf_uuZp4)
