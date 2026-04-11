@@ -6,6 +6,17 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+###  L'humour en temps de guerre ? Akim Omiri
+> 10 avril 2026
+> [youtube](https://www.youtube.com/watch?v=DSxc3eVBwYk)
+
+#### Livres
+- Les dessous de la politique de l'Oncle Sam - Noam Chomsky
+- Full metal alchemist - Hiromu Arakawa
+
+#### Film
+Will Hunting (1997) de Gus Van Sant
+
 ### Stress test : Agnès Pannier-Runacher
 > 25 mars 2026
 > [youtube](https://www.youtube.com/watch?v=eEhCw-GRYHE)
