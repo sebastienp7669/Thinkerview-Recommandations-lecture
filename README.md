@@ -7,11 +7,16 @@
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
 ###  OVNI, Astrophysique : Jean-Pierre Petit sans filtres
-> 15 avril 2026
+> 16 avril 2026
 > [youtube](https://www.youtube.com/watch?v=EzL1_Kod9-w)
 
-- 
+#### Livres de l'invité
+- Modèle Janus contre Science noire
+- Le métaphysicon
 
+#### Recommandations
+- Les chroniques martiennes - Ray Bradbury
+- Fahrenheit 451 - Ray Bradbury
 
 ### L'humour en temps de guerre ? Akim Omiri
 > 10 avril 2026
