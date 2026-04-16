@@ -6,7 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
-###  L'humour en temps de guerre ? Akim Omiri
+###  OVNI, Astrophysique : Jean-Pierre Petit sans filtres
+> 15 avril 2026
+> [youtube](https://www.youtube.com/watch?v=EzL1_Kod9-w)
+
+- 
+
+
+### L'humour en temps de guerre ? Akim Omiri
 > 10 avril 2026
 > [youtube](https://www.youtube.com/watch?v=DSxc3eVBwYk)
 
