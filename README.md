@@ -6,7 +6,24 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
-###  OVNI, Astrophysique : Jean-Pierre Petit sans filtres
+### Émeutes de la faim, périls pour la France ? Lydia et Claude Bourguignon
+> 21 avril 2026
+> [youtube](https://www.youtube.com/watch?v=rKfXU2JFcW8)
+
+#### Livre des invités
+- Manifeste pour une agriculture durable
+
+#### Lydia Bourguignon
+- L'intelligence artificielle ou l'enjeu du siècle - Eric Sadin
+- Trois - Valérie Perrin
+- Manifeste pour une agriculture
+
+#### Claude Bourguignon
+- 1984 - George Orwell
+- Les Frères Karamazov - Fedor Dostoïevski 
+- Le Prince - Nicolas Machiavel
+
+### OVNI, Astrophysique : Jean-Pierre Petit sans filtres
 > 16 avril 2026
 > [youtube](https://www.youtube.com/watch?v=EzL1_Kod9-w)
 
