@@ -6,6 +6,16 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Charles Alloncle : Audiovisuel Public, le rapport qu'on a voulu faire taire ?
+> 5 mai 2026
+> [youtube](https://www.youtube.com/watch?v=95xFL7_nRDk)
+
+- Le ciel ouvert - Nicolas Mathieu
+- Leurs enfants après eux - Nicolas Mathieu
+- Les particule élémentaires - Michel Houellebecq
+- V13: Chronique judiciaire - Emmanuel Carrère
+- Limonov - Emmanuel Carrère
+
 ### Émeutes de la faim, périls pour la France ? Lydia et Claude Bourguignon
 > 21 avril 2026
 > [youtube](https://www.youtube.com/watch?v=rKfXU2JFcW8)
