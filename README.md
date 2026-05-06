@@ -6,6 +6,12 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Dossiers enterrés par la France et investigations ? Jean-Baptiste Rivoire
+> 6 mai 2026
+> [youtube](https://www.youtube.com/watch?v=dN6omRcGQP4)
+
+- AFP 1957-2007 Les soldats de l'informatioon - Jacques Thomet
+
 ### Charles Alloncle : Audiovisuel Public, le rapport qu'on a voulu faire taire ?
 > 5 mai 2026
 > [youtube](https://www.youtube.com/watch?v=95xFL7_nRDk)
