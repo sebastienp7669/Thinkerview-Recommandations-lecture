@@ -6,11 +6,25 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### La France bientôt ruinée par ses élites déconnectées ? Olivier Lluansi et Arnaud Montebourg
+> 12 mai 2026
+> [youtube](https://www.youtube.com/watch?v=q3KU2-L0cv4)
+
+#### Arnaud Montebourg
+- Collusion: Comment la Russie a fait élire Trump à la Maison-Blanche - Luke Harding et Laurent Barucq
+- La France au miroir de l'Amérique: Quand les progressistes font triompher le populisme - Aquilino Morelle
+- Réindustrialiser, le défi d'une génération - Olivier Lluansi 
+
+#### Olivier Lluansi
+- Le continent de la douceur - Aurélien Bellanger
+- Made in France – Paul-Eloi Forget et Samuel Valensi
+- L’industrie européenne face au rouleau compresseur chinois - Rapport du Haut Commissariat à la Stratégie et au Plan (HCSP) [Lien vers le rapport](https://www.strategie-plan.gouv.fr/publications/lindustrie-europeenne-face-au-rouleau-compresseur-chinois)
+
 ### Dossiers enterrés par la France et investigations ? Jean-Baptiste Rivoire
 > 6 mai 2026
 > [youtube](https://www.youtube.com/watch?v=dN6omRcGQP4)
 
-- AFP 1957-2007 Les soldats de l'informatioon - Jacques Thomet
+- AFP 1957-2007 Les soldats de l'information - Jacques Thomet
 
 ### Charles Alloncle : Audiovisuel Public, le rapport qu'on a voulu faire taire ?
 > 5 mai 2026
