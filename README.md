@@ -6,6 +6,20 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Intelligence Artificielle : Notre humanité en péril ? Eric Sadin
+> 27 mai 2026
+> [youtube](https://www.youtube.com/watch?v=R6M1sUzsZUk)
+
+#### Livres de l'invité
+- Le désert de nous-mêmes
+- Penser à temps
+
+#### Recommandations
+- Les mots - Jean-Paul Sartre
+- A la recherche du temps perdu - Marcel Proust
+- Sur la télévision - Pierre Bourdieu
+- Témoigner: Séminaire (1992-1993) - Jacques Derrida
+
 ### La France bientôt ruinée par ses élites déconnectées ? Olivier Lluansi et Arnaud Montebourg
 > 12 mai 2026
 > [youtube](https://www.youtube.com/watch?v=q3KU2-L0cv4)
