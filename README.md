@@ -6,6 +6,24 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### I.A. : Le choc de l’intime ? Laurent Alexandre et Alexandre Tsicopoulos
+> 28 mai 2026
+> [youtube](https://www.youtube.com/watch?v=PjnzI69A3X0)
+
+#### Livres des invités
+- Vivre 1000 ans: Quand l'IA règne et la mort recule : rêve ou cauchemar ? - Laurent Alexandre et Alexandre Tsicopoulos
+
+#### Recommandations
+##### Laurent Alexandre
+- Le meilleur des mondes - Aldous Huxley
+- 1984 - George Orwell
+- Le Hasard et la Nécessité: Essai sur la philosophie naturelle de la biologie moderne - Jacques Monod 
+
+##### Alexandre Tsicopoulos
+- Ultra-intelligence: Jusqu'où iront les IA ? - Aymeric ROUCHER
+- Homo deus: Une brève histoire du futur - Yuval Noah Harari
+- 1984 - George Orwell
+
 ### Intelligence Artificielle : Notre humanité en péril ? Eric Sadin
 > 27 mai 2026
 > [youtube](https://www.youtube.com/watch?v=R6M1sUzsZUk)
