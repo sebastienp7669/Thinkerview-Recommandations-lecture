@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### I.A. : L'humanité va-t-elle survivre ? Gilles Babinet
+> 29 mai 2026
+> [youtube](https://www.youtube.com/watch?v=EWe2S68CKus)
+
+- L'individu, fin de parcours ?: Le piège de l'intelligence artificielle - Julien Gobin
+- Dans le cerveau des autistes - Temple Grandin et Richard Panek
+- Les archétypes et l'inconscient collectif - Carl Gustav Jung
+- The Diversity Myth: Multiculturalism and Political Intolerance on Campus - David Sacks & Peter Thiel
+
 ### I.A. : Le choc de l’intime ? Laurent Alexandre et Alexandre Tsicopoulos
 > 28 mai 2026
 > [youtube](https://www.youtube.com/watch?v=PjnzI69A3X0)
