@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Fin définitive de l'énergie bon marché ? Francis Perrin
+> 16 juin 2026
+> [youtube](www.youtube.com/watch?v=KK09dYN-YtI)
+
+#### Sources internet sur l'énergie:
+- https://www.iea.org/
+- https://www.eia.gov/
+- https://www.opec.org/
+
 ### I.A. : L'humanité va-t-elle survivre ? Gilles Babinet
 > 29 mai 2026
 > [youtube](https://www.youtube.com/watch?v=EWe2S68CKus)
