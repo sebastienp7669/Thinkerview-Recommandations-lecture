@@ -6,9 +6,22 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### L'Euro et l’UE sont bientôt morts ? Préparez-vous ! Thomas Grjebine et Nicolas Meilhan
+> 1er juillet 2026
+> [youtube](https://www.youtube.com/watch?v=f9_i3mYLFpA)
+
+#### Thomas Grjebine
+- Les rois maudits - Maurice Druon
+- Je voulais vivre: Milady - Adélaïde de Clermont-Tonnerre
+
+#### Nicolas Meilhan
+- (Documentaire) Au nom de l'Europe - Camille Adam
+- (Documentaire) La face cachée du pétrole [Lien YouTube](https://www.youtube.com/watch?v=0KETTLBKsh8)
+- L’industrie européenne face au rouleau compresseur chinois - Rapport du Haut Commissariat à la Stratégie et au Plan (HCSP) [Lien vers le rapport](https://www.strategie-plan.gouv.fr/publications/lindustrie-europeenne-face-au-rouleau-compresseur-chinois)
+
 ### Fin définitive de l'énergie bon marché ? Francis Perrin
 > 16 juin 2026
-> [youtube](www.youtube.com/watch?v=KK09dYN-YtI)
+> [youtube](https://www.youtube.com/watch?v=KK09dYN-YtI)
 
 #### Sources internet sur l'énergie:
 - https://www.iea.org/
