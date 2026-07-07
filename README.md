@@ -6,6 +6,20 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Le Jour d'Après: la Révolution des Octets - Bluetouff, Alexis Roussel et Caroline Zorn
+> 6 juillet 2026
+> [youtube](https://www.youtube.com/watch?v=IxivZdX4wmQ)
+
+#### Caroline Zorn
+- L'âme noire de la démocratie: Manifeste pour un autre idéal politique - Geoffroy de Lagasnerie
+
+#### Bluetouff
+- Machines of loving grace - Dario Amodei [Lien vers le texte sur le blog de Dario Amodei](https://darioamodei.com/essay/machines-of-loving-grace)
+- [Spécification MCP (Model Context Protocol) ](https://modelcontextprotocol.io/specification/2025-11-25)
+
+#### Alexis Roussel
+- Bitcoin, la monnaie acéphale - Jacques Favier , Adli Takkal Bataille
+
 ### L'Euro et l’UE sont bientôt morts ? Préparez-vous ! Thomas Grjebine et Nicolas Meilhan
 > 1er juillet 2026
 > [youtube](https://www.youtube.com/watch?v=f9_i3mYLFpA)
