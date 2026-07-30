@@ -6,6 +6,20 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Bruno Lemaire sans filtre
+> 29 juillet 2026
+> [youtube] (https://www.youtube.com/live/0QSlS8ifBbo)
+
+#### Livres
+Le fil de l'épée - Charles de Gaulle
+Maîtres anciens - Thomas Bernhard
+Mémoires - Saint Simon
+
+#### Films
+Le Crabe-tambour - Pierre Schoendoerffer
+La bataille de Gaulle, l'âge de fer - Antonin Baudry
+La bataille de Gaulle, j'écris ton nom - Antonin Baudry
+
 ### Le Jour d'Après: la Révolution des Octets - Bluetouff, Alexis Roussel et Caroline Zorn
 > 6 juillet 2026
 > [youtube](https://www.youtube.com/watch?v=IxivZdX4wmQ)
