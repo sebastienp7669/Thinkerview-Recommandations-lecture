@@ -6,6 +6,16 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Guerre mondiale, l’échec de l’élite ? Juan Branco
+> 9 septembre 2026
+> [youtube](https://www.youtube.com/watch?v=BwisLTtzSik)
+
+#### Films
+- La Bataille de Gaulle - partie 1 : L'Âge de Fer - Antonin Baudry
+- La Bataille de Gaulle - Partie 2 : J’écris ton nom - Antonin Baudry
+- La flûte enchantée - Ingmar Bergman
+- Le petit soldat - Jean-Luc Godard
+
 ### Bruno Lemaire sans filtre
 > 29 juillet 2026
 > [youtube] (https://www.youtube.com/live/0QSlS8ifBbo)
