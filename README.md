@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Chronique d'une société intoxiquée. Joan-Ramon Laporte
+> 10 septembre 2026
+> [youtube](https://www.youtube.com/watch?v=mDfQkS_1SfU)
+
+- Pharmageddon - David Healy
+- La France malade du médicament - Bernard Bégaud
+- L’obscurantisme au pouvoir - Brice Perrier
+
 ### Guerre mondiale, l’échec de l’élite ? Juan Branco
 > 9 septembre 2026
 > [youtube](https://www.youtube.com/watch?v=BwisLTtzSik)
