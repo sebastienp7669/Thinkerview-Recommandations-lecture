@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Menace de guerre ou basculement de l'ordre mondial ? Dan Wang
+> 14 septembre 2026
+> [youtube](https://www.youtube.com/watch?v=Mls6_9KOpqI)
+
+- Zomia ou l'art de ne pas être gouverné - James C. Scott
+- Le rouge et le noir - Stendhal
+- Peasants into Frenchmen: The Modernization of Rural France, 1870-1914 - Eugene Weber
+
 ### Chronique d'une société intoxiquée. Joan-Ramon Laporte
 > 10 septembre 2026
 > [youtube](https://www.youtube.com/watch?v=mDfQkS_1SfU)
