@@ -1,0 +1,22 @@
+name: Mirror to Framagit
+
+on:
+  push:
+    branches:
+      - main        # ajuste selon tes branches
+  # tu peux aussi ajouter des tags si besoin
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # important : tout l'historique
+
+      - name: Push to Framagit
+        run: |
+          git remote add framagit \
+            https://oauth2:${{ secrets.FRAMAGIT_TOKEN }}@framagit.org/ton-compte/ton-projet.git
+          git push framagit HEAD --force
