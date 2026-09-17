@@ -18,5 +18,5 @@ jobs:
       - name: Push to Framagit
         run: |
           git remote add framagit \
-            https://oauth2:${{ secrets.FRAMAGIT_TOKEN }}@framagit.org/ton-compte/ton-projet.git
+            https://oauth2:${{ secrets.FRAMAGIT_TOKEN }}@framagit.org/sebastienp7669/Thinkerview-Recommandations-lecture.git
           git push framagit HEAD --force
