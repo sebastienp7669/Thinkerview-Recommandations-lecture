@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Fuites de Données, Grand banditisme ? Christophe Boutry
+> 17 septembre 2026
+> [youtube](https://www.youtube.com/watch?v=rxajCta1Pcw)
+
+- Extreme Privacy: What It Takes to Disappear - Michael Bazzell
+- À la recherche du temps perdu - Marcel Proust
+- Le mage du Kremlin - Giuliano da Empoli
+
 ### Menace de guerre ou basculement de l'ordre mondial ? Dan Wang
 > 14 septembre 2026
 > [youtube](https://www.youtube.com/watch?v=Mls6_9KOpqI)
