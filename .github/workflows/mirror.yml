@@ -16,6 +16,11 @@ jobs:
           chmod 600 ~/.ssh/id_ed25519
           ssh-keyscan -H framagit.org >> ~/.ssh/known_hosts 2>/dev/null
       
+      - name: Setup Git Config
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+    
       - name: Mirror Repository
         run: |
           git remote add mirror git@framagit.org:sebastienp7669/Thinkerview-Recommandations-lecture.git
