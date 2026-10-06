@@ -19,4 +19,5 @@ jobs:
       - name: Mirror Repository
         run: |
           git remote add mirror https://framagit.org/sebastienp7669/Thinkerview-Recommandations-lecture.git
-          git push --mirror mirror
+          git push --all mirror
+          git push --tags mirror
