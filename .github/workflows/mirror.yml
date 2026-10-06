@@ -25,6 +25,6 @@ jobs:
         run: |
           git remote add mirror git@framagit.org:sebastienp7669/Thinkerview-Recommandations-lecture.git
           git fetch mirror
-          git merge mirror/master --allow-unrelated-histories || true
+          git merge mirror/master --allow-unrelated-histories -X ours || true
           git push --all mirror
           git push --tags mirror
