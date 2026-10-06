@@ -7,8 +7,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0   # important pour tout l'historique
       - uses: pixta-dev/repository-mirroring-action@v1
         with:
-          target_repo_url: git@framagit.org:sebastienp7669/Thinkerview-Recommandations-lecture.git
-          ssh_private_key: ${{ secrets.FRAMAGIT_SSH_KEY }}
+          target_repo_url: https://framagit.org/sebastienp7669/Thinkerview-Recommandations-lecture.git
+          target_username: ${{ secrets.FRAMAGIT_USERNAME }}
+          target_user_token: ${{ secrets.FRAMAGIT_TOKEN }}
