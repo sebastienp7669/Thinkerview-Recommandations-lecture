@@ -6,6 +6,15 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### L’arme d'immigration de masse ? Menace ou opportunité ? Arancha González
+> 6 octobre 2026
+> [youtube](https://www.youtube.com/watch?v=YbfetXUmsQ8)
+
+#### Livre de l'invitée
+- L'Europe seule au monde - Arancha González Laya
+
+_Pas de conseil de lecture_
+
 ### Fuites de Données, Grand banditisme ? Christophe Boutry
 > 17 septembre 2026
 > [youtube](https://www.youtube.com/watch?v=rxajCta1Pcw)
