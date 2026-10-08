@@ -6,6 +6,16 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### La mafia de l'audiovisuel public ? Charles Alloncle
+> 7 octobre 2026
+> [youtube](https://www.youtube.com/watch?v=jfTgi0D2i4g)
+
+(Cf. recommandations du 5 mai 2026)
+- Leurs enfants après eux - Nicolas Mathieu
+- Connemara - Nicolas Mathieu
+- Michel Houellebecq
+- Emmanuel Carrère
+
 ### L’arme d'immigration de masse ? Menace ou opportunité ? Arancha González
 > 6 octobre 2026
 > [youtube](https://www.youtube.com/watch?v=YbfetXUmsQ8)
