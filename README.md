@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Propagande, Psyops et conséquences ? Slobodan Despot
+> 13 octobre 2026
+> [youtube](https://www.youtube.com/watch?v=dGSUPmmSI_4)
+
+- Moby Dick - Herman Melville
+- The Abolition of Man - C.S. Lewis
+- Les Frères Karamazov - Fedor Dostoïevski
+
 ### La mafia de l'audiovisuel public ? Charles Alloncle
 > 7 octobre 2026
 > [youtube](https://www.youtube.com/watch?v=jfTgi0D2i4g)
