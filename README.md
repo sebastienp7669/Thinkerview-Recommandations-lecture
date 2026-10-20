@@ -6,6 +6,14 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+###  Guerre et insurrections, journalistes aux ordres ? Cemil Şanlı
+> 19 octobre 2026
+> [youtube](https://www.youtube.com/watch?v=0pJhnQD0D24)
+
+- La médiocratie - Alain Deneault
+- Antispéciste: réconcilier l'humain, l'animal, la nature - Aymeric caron
+- Contre la guerre: être lucide, comprendre, agir - Mélina Huet
+
 ### Propagande, Psyops et conséquences ? Slobodan Despot
 > 13 octobre 2026
 > [youtube](https://www.youtube.com/watch?v=dGSUPmmSI_4)
