@@ -6,7 +6,19 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
-###  Guerre et insurrections, journalistes aux ordres ? Cemil Şanlı
+###   Black Bloc contre BlackRock, qui gagne ? David Baverez
+> 22 octobre 2026
+> [youtube](https://www.youtube.com/watch?v=mfxK8OWRgL0)
+
+#### Livre de l'invité
+- Après le chaos - David Baverez
+
+#### Recommandations
+- Pourquoi les pays font faillite - Ray Dalio
+- Les principes du succès - Ray Dalio
+- L'ordre mondial en mutation - Ray Dalio
+
+### Guerre et insurrections, journalistes aux ordres ? Cemil Şanlı
 > 19 octobre 2026
 > [youtube](https://www.youtube.com/watch?v=0pJhnQD0D24)
 
