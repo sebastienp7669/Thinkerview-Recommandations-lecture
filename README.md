@@ -6,7 +6,13 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
-###   Black Bloc contre BlackRock, qui gagne ? David Baverez
+###  Face à la Guerre, Civile, Économie, Mondiale ? Bruno Le Maire
+> 2 novembre 2026
+> [youtube](https://www.youtube.com/watch?v=ALIPF5lqIpw)
+
+- Le fondateur - Giuliano da Empoli
+
+### Black Bloc contre BlackRock, qui gagne ? David Baverez
 > 22 octobre 2026
 > [youtube](https://www.youtube.com/watch?v=mfxK8OWRgL0)
 
