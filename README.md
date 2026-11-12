@@ -6,6 +6,13 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Les nouveaux maîtres du futur ? Jérôme Clech
+> 11 novembre 2026
+> [youtube](https://www.youtube.com/watch?v=-2nXJuFSgCw)
+
+- L'homme qui plantait des arbres - Jean Giono
+- Pilote de guerre - Antoine de Saint-Exupéry
+
 ### Face à la Guerre, Civile, Économie, Mondiale ? Bruno Le Maire
 > 2 novembre 2026
 > [youtube](https://www.youtube.com/watch?v=ALIPF5lqIpw)
