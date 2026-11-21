@@ -6,6 +6,22 @@
 
 Liste des recommandations lecture/films des invités de ThinkerView (3 livres pour la communauté) avec titre de l'oeuvre et auteur.
 
+### Hacker l'habitat, sortir du crédit ? Jonathan Attias et Caroline Perez
+> 20 novembre 2026
+> [youtube](https://www.youtube.com/watch?v=wjdrsXb8CdM)
+
+- Les Quatre Accords toltèques - Don Miguel Ruiz
+- Le prophète - Khalil Gibran
+- Mener le bon combat: Lecture croisée des lettres de saint Paul et du code d'honneur de la Légion - Céline Guillaume
+
+### Peut-on arrêter la fin du monde ? Gary Stevenson
+> 20 novembre 2026
+> [youtube](https://www.youtube.com/watch?v=mXFx10RFOjk)
+
+- La peste - Albert Camus
+- Candide - Voltaire
+- Les Milliardaires ne paient pas d’impôt sur le revenu et nous allons y mettre fin - Gabriel Zucman 
+
 ### Les nouveaux maîtres du futur ? Jérôme Clech
 > 11 novembre 2026
 > [youtube](https://www.youtube.com/watch?v=-2nXJuFSgCw)
